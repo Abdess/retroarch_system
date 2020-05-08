@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
+<!--
+license:CC0
+
+Info Taken from here: http://www.samdal.com/svsoftware.htm
+
+These disks are not dumped:
+Wordstar
+dBase II
+
+
+According to http://www.tosecdev.org/forum/errors-contributions/spectravideo-svi-318-and-svi-328-(tosec)-549/
+there is also a large number of Swedish disks yet to be found and dumped:
+
+Spectra ORD (198x)(Ronex?)(sv)
+Spectra REG (198x)(Ronex?)(sv)
+Spectra KALK (198x)(Ronex?)(sv)
+ASMEDIT (198x)(sv)
+Asynkront TTY-V52 kommunikationsprogram (198x)(sv)
+Källkodsmonitor (198x)(sv)
+PLIST (198x)
+Jet Alf II (198x)
+Spectra ORD (198x)(Ronex?)(sv)
+Spectra KALK (198x)(Ronex?)(sv)
+Rädda disketten (198x)(sv)
+
+-->
+
+<softwarelist name="svi318_flop" description="Spectravision SVI-318/328 disk images">
+
+	<software name="cpm224dd">
+		<description>CP/M-80 version 2.24</description>
+		<!--for the SVI-328 with double sided diskdrive (SVI-605B)-->
+		<year>198?</year>
+		<publisher>Spectravideo</publisher>
+
+		<part name="flop1" interface="floppy_5_25">
+			<dataarea name="flop" size="197368">
+				<rom name="cpm224dd.imd" size="197368" crc="a99b6ecc" sha1="2326ad4de147638194645df82ea9e803cea4eb79"/>
+			</dataarea>
+		</part>
+
+		<part name="flop2" interface="floppy_5_25">
+			<dataarea name="flop" size="145870">
+				<rom name="cpm224sd.imd" size="145870" crc="96bb2a7b" sha1="9cc4d5501abb83c586ede91161750b8718394b9a"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cpm222ss">
+		<description>CP/M-80 2.22</description>
+		<year>1983</year>
+		<publisher>Spectravideo</publisher>
+		<part name="flop1" interface="floppy_5_25">
+			<dataarea name="flop" size="172032">
+				<rom name="cpmss.dsk" size="172032" crc="cb7f1edb" sha1="676b5752141acaba7f1056909ed75be53ff388ff" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cpm224ds">
+		<description>CP/M-80 2.24 for SV-605B</description>
+		<year>1984</year>
+		<publisher>Spectravideo</publisher>
+		<part name="flop1" interface="floppy_5_25">
+			<dataarea name="flop" size="346112">
+				<rom name="cpmds.dsk" size="346112" crc="f7323e1a" sha1="7bfd8c46f8361cb31e9f4f640448cddaad91c55b" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="diskbas">
+		<description>Disk Basic 1.0</description>
+		<year>1983?</year>
+		<publisher>Spectravideo</publisher>
+		<part name="flop1" interface="floppy_5_25">
+			<dataarea name="flop" size="346112">
+				<rom name="diskbasic10.dsk" size="346112" crc="0744ac56" sha1="eef7d033263d1cc2703d019bf062b1a02b641570" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="zcpr3">
+		<description>Z-CPR3</description>
+		<year>1985?</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_5_25">
+			<dataarea name="flop" size="172032">
+				<rom name="zcpr3.dsk" size="172032" crc="a6ea5b81" sha1="c08a6743e713fe8f3b8b694cd92fc70680fc6f66" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+</softwarelist>

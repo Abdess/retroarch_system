@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
+<!--
+license:CC0
+-->
+<softwarelist name="pencil2" description="Hanimex Pencil II cartridges">
+
+<!--
+
+Undumped known carts
+~~~~~~~~~~~~~~~~~~~~
+SD-BASIC V1.0
+Le Jardin Magique (PEN-701)
+Alien Invader
+Big Foot Chase
+Mouse Trap
+Parashooter
+Pinball
+Robot Killer
+Smurf
+Space Squadron
+Space Vulture
+Super Bug
+Zaxxon
+
+Undumped known floppies
+~~~~~~~~~~~~~~~~~~~~~~~
+Basic Computer
+Data Base
+Payroll
+
+Undumped known cassettes
+~~~~~~~~~~~~~~~~~~~~~~~~
+Cheque Book Balance
+Data Base
+Demo Tape (Calendar, Arith, Melody)
+Household Expenses
+Reminder Calendar
+
+-->
+
+	<!-- Dumped using plgDavid's IZE80 board in a ColecoVision by the team at silicium.org -->
+	<software name="treasure">
+		<description>Treasure Hunt / Le Plongeur a la Recherche du Tresor</description>
+		<year>1983</year>
+		<publisher>Soundic Electronics</publisher>
+		<info name="serial" value="PEN-702"/>
+		<part name="cart" interface="pencil2_cart">
+			<dataarea name="rom" size="16384">
+				<rom name="pen702a.bin" size="8192" crc="9879e2ff" sha1="159b3d50abff42bd53351a13f316bef993b019e7" offset="0x0000" />
+				<rom name="pen702b.bin" size="4096" crc="ddfd95fc" sha1="8d33e7b2821d2e26af3b8721be3732455baeb757" offset="0x2000" />
+				<rom size="4096" offset="0x3000" loadflag="reload" />
+			</dataarea>
+		</part>
+	</software>
+
+
+<!--
+
+BASIC CART PEN-700 11-50332-31 Rev.0
+SD-BASIC VERSION 2.0 FOR PENCIL II
+(c) 1983 SOUNDIC ELECTRONICS LTD HONG KONG ALL RIGHTS RESERVED
+ 1 x 2732
+ 2 x 2764
+
+The roms were dumped by attaching a cable from the printer port to
+a Super-80 and writing programs in Basic to transfer the bytes.
+Therefore it is not known which rom "202" or "203" is which address range.
+-->
+
+	<software name="basic">
+		<description>SD-BASIC v2.0</description>
+		<year>1983</year>
+		<publisher>Soundic Electronics</publisher>
+		<info name="serial" value="PEN-700"/>
+		<part name="cart" interface="pencil2_cart">
+			<dataarea name="rom" size="24576">
+				<rom name="203.bin" size="8192" crc="f502175c" sha1="cb2190e633e98586758008577265a7a2bc088233" offset="0x0000" />
+				<rom name="1-or.bin" size="4096" crc="1ddedccd" sha1="5fc0d30b5997224b67bf286725468194359ced5a" offset="0x2000" />
+				<rom size="4096" offset="0x4000" loadflag="reload" />
+				<rom name="202.bin" size="8192" crc="5171097d" sha1="171999bc04dc98c74c0722b2866310d193dc0f82" offset="0x4000" />
+			</dataarea>
+		</part>
+	</software>
+
+</softwarelist>

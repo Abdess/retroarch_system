@@ -1,0 +1,1719 @@
+<?xml version="1.0"	encoding="utf-8" ?>
+<!--
+ The segadb.xml contains infos about SG-1000, SC-3000 and SF-7000 games and applications. Version for blueMSX 2.8.2
+																				
+	© 2004-2009	Benoit Delvaux	(Database Administrator)
+	Thanks to Daniel Vik, Wouter Vermaelen and Patrick van Arkel for their support.						
+-->
+<softwaredb xml:lang="en"	timestamp="1109824885">
+<!-- SF-7000 disks -->
+	<software>
+		<title xml:lang="en">Complete Arcade Pack Collection</title>
+		<system>Sega</system>
+		<company>Poseidon</company>
+		<year>1986</year>
+		<country>NZ</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">e12dd5f93df9f536ce4e6f7c445467358c31145a</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Froggy + Cube It</title>
+		<system>Sega</system>
+		<company>Scorpion</company>
+		<year>19xx</year>
+		<country>NZ</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">55625ec47e9be66ff632361823c233d7cae0c839</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Grandstand Games</title>
+		<system>Sega</system>
+		<company>Grandstand Leisure</company>
+		<year>19xx</year>
+		<country>NZ</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">34531b2af48641887bc3df27fd481c1600b97872</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Graphisme</title>
+		<system>Sega</system>
+		<company>Marc Le Douarain</company>
+		<year>19xx</year>
+		<country>FR</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">588b1e0f4b20214841dc5dcf060ab35539eb7687</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">HuCAL</title>
+		<system>Sega</system>
+		<company>Hudson Soft</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">93e7e8e3b752400e212f83ee0a3dee99b91599ea</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Jeux Educatifs</title>
+		<system>Sega</system>
+		<company>Marc Le Douarain</company>
+		<year>1990</year>
+		<country>FR</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">3cd6d69318fb9a3b8ebccf41436175137794dd29</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Jeux de Societe</title>
+		<system>Sega</system>
+		<company>Marc Le Douarain</company>
+		<year>19xx</year>
+		<country>FR</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">c335412db8ed6b4c9a25efcf7f21d54eaff13080</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Jeux Divers 1</title>
+		<system>Sega</system>
+		<company>Marc Le Douarain</company>
+		<year>19xx</year>
+		<country>FR</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">a855f9604ffdb14c3437b16a67f56d643c61d7bc</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Jeux Divers 2</title>
+		<system>Sega</system>
+		<company>Marc Le Douarain</company>
+		<year>19xx</year>
+		<country>FR</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">c4341db107c02c314466661ae39be8b2a9ff8a57</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Kamikaze</title>
+		<system>Sega</system>
+		<company>Loriciels</company>
+		<year>1984</year>
+		<country>FR</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">8995356ea9dcca2fbbbf33dc730e391b29b138a4</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Monitor + LM games and tools</title>
+		<system>Sega</system>
+		<company>Marc Le Douarain</company>
+		<year>1991</year>
+		<country>FR</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">2c1e2568a9c15801cf467971098a16899771bb12</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Musique</title>
+		<system>Sega</system>
+		<company>Marc Le Douarain</company>
+		<year>19xx</year>
+		<country>FR</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">7b7379131af99677ce4727fab249cd3eac3c4764</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Olympiades</title>
+		<system>Sega</system>
+		<company>Marc Le Douarain</company>
+		<year>19xx</year>
+		<country>FR</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">41f24aa32ee30263221176da281562c6d83fb51e</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Poseidon Wars - Space Panic - Rambo</title>
+		<system>Sega</system>
+		<company>Marc Le Douarain</company>
+		<year>1991</year>
+		<country>FR</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">909d6335034cf9e241d7fc4c8074a280b5c4112f</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Progs for Yeno</title>
+		<system>Sega</system>
+		<company>Marc Le Douarain</company>
+		<year>19xx</year>
+		<country>FR</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">c757b08499f9cf08090c9cb83be7ce421be8c7ac</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Sega Base 1.0</title>
+		<system>Sega</system>
+		<company>Hudson</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">13b894cfa295e30df961a25ace3d9062d63adc36</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Sega Disk Basic 1.0p</title>
+		<system>Sega</system>
+		<company>Mitec</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">1e3c0651757d304ba1184e43f1cb1ce1ca3be22e</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Sega Disk Basic 1.0p + Yeno demo</title>
+		<system>Sega</system>
+		<company>Mitec</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">c7c55da3c2f0fa90895f8b2802bad2606ff16578</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Sega Disk Basic 1.1p</title>
+		<system>Sega</system>
+		<company>Mitec</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">037c3d09b3d9e898a79514c3885bf6e42d28dd4e</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Sega Logo</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">1a54fbf5bd1442a96e7806249a6812ea2006e092</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Segaword 3</title>
+		<system>Sega</system>
+		<company>Trevor Yann</company>
+		<year>1985</year>
+		<country>NZ</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">f9384c1b5b1ad049be7def09f067e7a072254217</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Super Jeux Yeno</title>
+		<system>Sega</system>
+		<company>Marc Le Douarain</company>
+		<year>19xx</year>
+		<country>FR</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">36cc8301384537a700ec4ae85d2a24d0c5d1bd11</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Utilitaires DAO</title>
+		<system>Sega</system>
+		<company>Marc Le Douarain</company>
+		<year>1991</year>
+		<country>FR</country>
+		<dump>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">8a293c8646e96d95dd34977cdac0c1ea78e7b0ec</hash>
+				</format>
+			</dsk>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Yeno Draw</title>
+		<system>Sega</system>
+		<company>Marc Le Douarain</company>
+		<year>1991</year>
+		<country>FR</country>
+		<dump>
+		<group>
+			<original value="false"	/>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">327b9ac2a35714dc9f920e2fef4f1a24a2259f7d</hash>
+				</format>
+				<remark>
+					<text>Disk A</text>
+				</remark>
+			</dsk>
+			<dsk>
+				<format	type="dsk">
+					<hash algo="sha1">9f693e4cdb9eb89c167e7291bcfd9c1bb2ffc5ad</hash>
+				</format>
+				<remark>
+					<text>Disk B</text>
+				</remark>
+			</dsk>
+		</group>
+		</dump>
+	</software>
+<!-- SG-1000 roms -->
+	<software>
+		<title xml:lang="en">Bank Panic</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">8e1dc4d79c5bc45fc6112969ea9a2c68b3c86666</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Black Onyx, The</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1987</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">7ecb9ac646346900046a61ff0242d6c90a812eda</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Bomb Jack</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">7859b9ee5614c595cb57a832ef7a8f1ab473b45b</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Borderline</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">b967340fa91d960f86548f15e6d25a8e7e2c5043</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">C-So!</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">d45a230b3cbf2d2dcfe7b94691fc7f1a5d747625</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Castle, The</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1986</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000Castle</type>
+				<hash algo="sha1">2681786bffccf58b59410c331865d30a4d027087</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Chack&#39;n Pop</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">08b5c1135f9678465ece6a886c948ce091637372</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Challenge Derby</title>
+		<system>Sega</system>
+		<company>Othello Multivision</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">47239898cc2ad5c4aeae1815dc54de6f87a8aa35</hash>
+			</rom>
+		</dump>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">8a5e6c9b10c9a99c1eaaee48374d1fede5966340</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Champion Baseball</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">737b9478c4ce6df2afcd36f78011019f5d669226</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Champion Billiards</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1986</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">f517e6a6123643a5e7e5fff6b413139afa412d8e</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Champion Boxing</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">7a7ace132090f11bac4f4aec58bcbf6a2a1c6168</hash>
+			</rom>
+		</dump>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">8cd55ee1efcab917087b80629ca18b4629edc15d</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Champion Ice Hockey</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">ff6440fc7e5c5faa0b9868d5cb5110d1d8635284</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Champion Kendou</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1986</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">8565fc398d0206100da785d10e008f7f6a3c225e</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Champion Pro Wrestling</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">3bdb1e9d8b1a04d8fcc242c47be790c427a75403</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Champion Soccer</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">0b3cf82f020ac9249ea52766ffbad41515d0b8b4</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Champion Tennis</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">8b90300dcabc2cf8d58ee4800dce3084b739886b</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Championship Golf</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">05deb000f24b7d8625c6e9332dcc91416ed3258f</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Championship Lode Runner</title>
+		<system>Sega</system>
+		<company>Tsukuda</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">a0dad095489da2bdf8ec03f1acc83f809db2371f</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Choplifter</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">e0828517fdc9a5537fda39dbc49942494eb3196d</hash>
+			</rom>
+		</dump>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">da92459e64ed6cc0ce93b03a60fad049e13a505f</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Congo Bongo</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">96dd55a63bae0abc666fe317d50612116100d7b1</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Doki Doki Penguin Land</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">176e2d2648b20e6fac823021697138803ef38b27</hash>
+			</rom>
+		</dump>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">f49c43b1f9a0b19ef5f30d9bf2b222af7aeb9fbf</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Dragon Wang</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">43807c9f634b8cf85aa5c3b2459885eedbb99955</hash>
+			</rom>
+		</dump>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">78f26d0a1d4f08a6378700b81ab38fc7c0f6bdc0</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Drol</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">607b2b9a946eaaebb938800bd3b1df7d9342388c</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Elevator Action</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">f72b3e44309e7c2e447c46928ce795453102f717</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Exerion</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">839e19487b96d02222ff397b047cbc6a0fbc08ff</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Flicky</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">39a91b5ad6b139ca5d8ac60b78520210e84944bd</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">FudeBrowser - BrMSX</title>
+		<system>Sega</system>
+		<company>R.Bittencourt</company>
+		<year>2001</year>
+		<country>BR</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">96c6fd49694e08beaf43c2fac7876c56491f9876</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">FudeBrowser - BrSMS</title>
+		<system>Sega</system>
+		<company>R.Bittencourt</company>
+		<year>2001</year>
+		<country>BR</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">b160f3a273bf9f675ba13f6a5a61c92c2b16bd36</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">FudeBrowser - Chrissy M Picture by Newo</title>
+		<system>Sega</system>
+		<company>R.Bittencourt</company>
+		<year>2001</year>
+		<country>BR</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">cfe16bd68f409de8c21631dc8fa63322ae959f5c</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">FudeBrowser - ExpoSALT Logo</title>
+		<system>Sega</system>
+		<company>R.Bittencourt</company>
+		<year>2001</year>
+		<country>BR</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">185575d35e32cd9280015a4b63a4b24c3179f220</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">FudeBrowser - Goatse Picture by Newo</title>
+		<system>Sega</system>
+		<company>R.Bittencourt</company>
+		<year>2001</year>
+		<country>BR</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">e77f199938a5a63a1a167a449a2891e694715f79</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">FudeBrowser - How Do They Do That With HTML</title>
+		<system>Sega</system>
+		<company>R.Bittencourt</company>
+		<year>2001</year>
+		<country>BR</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">8bd5fb07dff9548afa12a48a263e569036eddb7b</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">FudeBrowser - Jiraiya</title>
+		<system>Sega</system>
+		<company>R.Bittencourt</company>
+		<year>2001</year>
+		<country>BR</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">4aa7d2466c314be8881c88be5ed4abb0accac1b2</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">FudeBrowser - Never</title>
+		<system>Sega</system>
+		<company>R.Bittencourt</company>
+		<year>2001</year>
+		<country>BR</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">cf546c0a5e75c70c12ce0fb272766dd07562c956</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">FudeBrowser - Newo</title>
+		<system>Sega</system>
+		<company>R.Bittencourt</company>
+		<year>2001</year>
+		<country>BR</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">5ce20d2b6db811deafc83f8b42144fc1bc519efd</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">FudeBrowser - Sandy Style Picture by Newo</title>
+		<system>Sega</system>
+		<company>R.Bittencourt</company>
+		<year>2001</year>
+		<country>BR</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">3463d5fc43e15a045abd048c04acf4bdd9eab683</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">FudeBrowser - Shurato</title>
+		<system>Sega</system>
+		<company>R.Bittencourt</company>
+		<year>2001</year>
+		<country>BR</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">4a7aafb9059a701ec3ea4742169476371f75d9e5</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">FudeBrowser - Skybaby's SMS List</title>
+		<system>Sega</system>
+		<company>R.Bittencourt</company>
+		<year>2001</year>
+		<country>BR</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">09590758b33f704cc520d80ac28942a1558c0f05</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">FudeBrowser - Winnie Cooper</title>
+		<system>Sega</system>
+		<company>R.Bittencourt</company>
+		<year>2001</year>
+		<country>BR</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">d59897788ead1515667c9005f85736e121765acb</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Girl's Garden</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">0e08786587fb76909b3f9806ba1f5d57ea17728c</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Golgo 13</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">bf27536c6ae71b333da8b362479da0a838d0715e</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">GP World</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">37aa4812d37445c9e86bc4e02f056fb50d19dc6a</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Gulkave</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1986</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">3fb197d16b25bc128a2866c4b78b0535ab8dc412</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Guzzler</title>
+		<system>Sega</system>
+		<company>Tsukuda</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">d42b2c5f1da4e0fbd29fcea91bfc092ae46da4b8</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">H.E.R.O.</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">19acb69b7b64da5083349d8bc40a47beacc88c41</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Hang-On II</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">e636e889d4e81c024ee7dae8943c2b8d9d4a5414</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Home Mahjong</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">0202c0d86c4b793c58af021edfb3c077ae3169a5</hash>
+			</rom>
+		</dump>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">ac38a279f24e132acf6ac9fd27b53d1b939d2e7e</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Hustle Chumy</title>
+		<system>Sega</system>
+		<company>Compile</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">1f1bad94b2d869c10a2373ca40d4076d227cc302</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Hyper Sports</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">8a13ee297f861f436b9529a5e2193cb697baa56f</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">James Bond 007</title>
+		<system>Sega</system>
+		<company>Tsukuda</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">88d8c1f56f06ec76be285c29f41322a748f7c4db</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Mahjong</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">2e6810c0c0c02c0fdda6fcaeae835cf94ab9bcba</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Monaco GP</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">6476bc0fc1608dd69a1ae62617ea4719bc7eaa50</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Ninja Princess</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1986</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">f142bb823cebc4e31488e7a9a94644af24186d99</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">N-Sub</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1988</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">32a263110434288d3720e2370241d1e93b3f07a9</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Orguss</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">c50b133dac95718e3a92a7ed45b6c7e83927abb0</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Othello</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000Castle</type>
+				<hash algo="sha1">d0cd594ddb321f707ddba8a044fa3e9b906e720a</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Pacar</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">91fd213308b83bb1bda1dfc7e971e576caace291</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Pachinko</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">aeaa15155e7d4275880c35c866c45626daa4dab9</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Pachinko II</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">1dbc4babbbb377a1ff59a11e550a9b1b5e742b02</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Pitfall II - Lost Caverns</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">356db6edcd337a06063957bd8cb27edeb7160f6c</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Pop Flamer</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">84b59a9f855ef5e953c43495d7a15dd78386d0a8</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Q-Bert</title>
+		<system>Sega</system>
+		<company>Tsukuda</company>
+		<year>1986</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">ae23fce5dbbc1536275d57ca65d2aa9170d46ea4</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Rock&#39;n&#39;Bolt</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">d5e8e7ca7623521d4291ae5ab2740816fc674389</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Safari Hunting</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">902dbabbfa98d71299adda0638b87152188e1cf1</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Safari Race</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1988</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">1d2ca62c894fc8aab97605e65078e834bbbe3d8b</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Sega Flipper</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">e0605e23d80b8b975743d3417f548b28810e0ba3</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Sega Galaga</title>
+		<system>Sega</system>
+		<company>Namcot</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">32e776b3a17f7c0df0fa9eb49a3e451cfe702bfd</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Serizawa Hachidan no Tsumeshogi</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">c2d3882874a5a9b79a5dc9fdeb7af750bc52ca21</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Shinnyushain Tooru Kun</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">83784e8248e2367546115382dac157ca8e6fe3ab</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Sindbad Mystery</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">a3b3f96685815d6ab0751e6442c7349d5b91d60c</hash>
+			</rom>
+		</dump>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">90bb8b8337866339f32b3fd48b4d25d78d682b55</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Soukoban</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">94e79b4a8b4a5fb77c837ea0a1e28bc5993d36af</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Space Invaders</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">a4e4b0c2967e39c4931fba8bc87428f296e461c5</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Space Slalom</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">798b5f3742cb3f95fd5977d9a2cb48ba2dc804e6</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Space Mountain</title>
+		<system>Sega</system>
+		<company>Tsukuda</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">08d9360d6e92b081d99b7629f91d4fe482383a18</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Star Force</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">d38875cb08de0ea892e5ef80f93987bbc445ef8f</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Star Jacker</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">5d074708edf6c40dc6d80032cd91ff6197aa79c7</hash>
+			</rom>
+		</dump>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">be078bfa5340f2e1d307b85d3648192972529e46</hash>
+			</rom>
+		</dump>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">a2a06e7545ca1e0d522d0eb75a72b5b520f42330</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Super Tank</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1986</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">58d7d51b91b763d812376d56643a4f8a331e826b</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Terebi Oekaki</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">12296f2bb57d80d1774749d3002a039e0940c6fa</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Wonder Boy</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1986</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">4a54933135cdff546fd79cbc61a38355f7335f3f</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Yamato</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">4d746558fb699c5cb480ba26130518105b2e2031</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Zaxxon</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">e32f536c3576d41ab485e07809c4404e6b462443</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Zippy Race</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">8c48dbe187ff4b26d6244d38075565f284536d0c</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Zoom 909</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SG1000</type>
+				<hash algo="sha1">09552aaa7140f9fc780b5f7d541478b534320075</hash>
+			</rom>
+		</dump>
+	</software>
+<!-- SC-3000 roms -->
+	<software>
+		<title xml:lang="en">F16 Fighting Falcon</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1985</year>
+		<country>JP</country>
+		<dump>
+			<original value="false"	/>
+			<rom>
+				<type>SegaBasic</type>
+				<hash algo="sha1">0f60f545ce99366860a94fbb115ce7d8531ab7ba</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Nihon-Shi Nenpyou</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false" />
+			<rom>
+				<type>SC3000</type>
+				<hash algo="sha1">972cf86f8f627c7b8e1ac9c5a837bd4673be6e54</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Sega Basic Level 2 version 1.0</title>
+		<system>Sega</system>
+		<company>Mitec</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false" />
+			<rom>
+				<type>SegaBasic</type>
+				<hash algo="sha1">1fa9f4ec347681d7909415b6d06179e44b0fcd5e</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Sega Basic Level 3 version 1.0</title>
+		<system>Sega</system>
+		<company>Mitec</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false" />
+			<rom>
+				<type>SegaBasic</type>
+				<hash algo="sha1">a43aef367857a681decea52377c2e7a992c2ac68</hash>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Sega Music Editor</title>
+		<system>Sega</system>
+		<company>Mitec</company>
+		<year>1983</year>
+		<country>JP</country>
+		<dump>
+			<original value="false" />
+			<rom>
+				<type>SegaBasic</type>
+				<hash algo="sha1">a2137e818242e8b361d5d5677797034c55fb1a2d</hash>
+			</rom>
+		</dump>
+		<dump>
+			<original value="false" />
+			<rom>
+				<type>SegaBasic</type>
+				<hash algo="sha1">61f40e4b7576d4d55322f3d6eef2038aa784336e</hash>
+				<remark>
+					<text>English translation</text>
+				</remark>
+			</rom>
+		</dump>
+	</software>
+	<software>
+		<title xml:lang="en">Tanoshii Sansuu</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false" />
+			<rom>
+				<type>SC3000</type>
+				<hash algo="sha1">751d82119e19d46a20165c8debbfe95b3241a701</hash>
+			</rom>
+		</dump>
+	</software>
+<!-- Sega system roms -->
+	<software>
+		<title xml:lang="en">SF-7000 Initial Program Loader</title>
+		<system>Sega</system>
+		<company>Sega</company>
+		<year>1984</year>
+		<country>JP</country>
+		<dump>
+			<original value="false" />
+			<systemrom>
+				<type>SF-7000IPL</type>
+				<hash algo="sha1">77339a6db2593aadc638bed77b8e9bed5d9d87e3</hash>
+			</systemrom>
+		</dump>
+	</software>
+</softwaredb>

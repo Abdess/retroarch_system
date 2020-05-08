@@ -1,0 +1,1379 @@
+T-081326 {
+	name NBA Jam
+	EEPROM {
+		type i2c
+		size 256
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				1 sda
+			}
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+	}
+}
+T-81033 {
+	name NBA Jam
+	EEPROM {
+		type i2c
+		size 256
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				1 sda
+			}
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+	}
+}
+T-081276 {
+	name NFL Quarterback Club
+	EEPROM {
+		type i2c
+		size 256
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			#This is almost certainly not correct based on the address pins
+			#available to the Acclaim mapper. It's probably available up to
+			#2FFFFF at least and just fights with D0 from the mask ROM
+			last 200001
+			bits_read {
+				0 sda
+			}
+			bits_write {
+				0 sda
+				8 scl
+			}
+		}
+		200002 {
+			device ROM
+			offset 200000
+			last 2FFFFF
+		}
+	}
+}
+T-81406 {
+	name NBA Jam TE
+	EEPROM {
+		type i2c
+		size 512
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			#This is almost certainly not correct based on the address pins
+			#available to the Acclaim mapper. It's probably available up to
+			#2FFFFF at least and just fights with D0 from the mask ROM
+			last 200001
+			bits_read {
+				0 sda
+			}
+			bits_write {
+				0 sda
+				8 scl
+			}
+		}
+		200002 {
+			device ROM
+			offset 200000
+			last 2FFFFF
+		}
+	}
+}
+T-081586 {
+	name NFL Quarterback Club '96
+	EEPROM {
+		type i2c
+		size 2048
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			#This is almost certainly not correct based on the address pins
+			#available to the Acclaim mapper. It's probably available up to
+			#2FFFFF at least and just fights with D0 from the mask ROM
+			last 200001
+			bits_read {
+				0 sda
+			}
+			bits_write {
+				0 sda
+				8 scl
+			}
+		}
+		200002 {
+			device ROM
+			last 3FFFFF
+			offset 200000
+		}
+	}
+}
+T-81576 {
+	name College Slam
+	EEPROM {
+		type i2c
+		size 8192
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			#This is almost certainly not correct based on the address pins
+			#available to the Acclaim mapper. It's probably available up to
+			#2FFFFF at least and just fights with D0 from the mask ROM
+			last 200001
+			bits_read {
+				0 sda
+			}
+			bits_write {
+				0 sda
+				8 scl
+			}
+		}
+		200002 {
+			device ROM
+			offset 200000
+			last 2FFFFF
+		}
+	}
+}
+T-81476 {
+	name Frank Thomas Big Hurt Baseball
+	EEPROM {
+		type i2c
+		size 8192
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			#This is almost certainly not correct based on the address pins
+			#available to the Acclaim mapper. It's probably available up to
+			#2FFFFF at least and just fights with D0 from the mask ROM
+			last 200001
+			bits_read {
+				0 sda
+			}
+			bits_write {
+				0 sda
+				8 scl
+			}
+		}
+		200002 {
+			device ROM
+			last 3FFFFF
+			offset 200000
+		}
+	}
+}
+T-50176 {
+	name Rings of Power
+	EEPROM {
+		type i2c
+		size 128
+	}
+	map {
+		0 {
+			device ROM
+			last FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				7 sda
+			}
+			bits_write {
+				6 scl
+				7 sda
+			}
+		}
+	}
+}
+T-50396 {
+	name NHLPA Hockey '93
+	EEPROM {
+		type i2c
+		size 128
+	}
+	map {
+		0 {
+			device ROM
+			last 7FFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				7 sda
+			}
+			bits_write {
+				6 scl
+				7 sda
+			}
+		}
+	}
+}
+T-50446 {
+	name John Madden Football '93
+	EEPROM {
+		type i2c
+		size 128
+	}
+	map {
+		0 {
+			device ROM
+			last FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				7 sda
+			}
+			bits_write {
+				6 scl
+				7 sda
+			}
+		}
+	}
+}
+T-50516 {
+	name John Madden Football '93: Championship Edition
+	EEPROM {
+		type i2c
+		size 128
+	}
+	map {
+		0 {
+			device ROM
+			last FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				7 sda
+			}
+			bits_write {
+				6 scl
+				7 sda
+			}
+		}
+	}
+}
+T-172196 {
+	name Madden NFL 98
+	SRAM {
+		size 16318
+		bus odd
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device SRAM
+			last 3FFFFF
+		}
+	}
+}
+T-50606 {
+	name Bill Walsh College Football
+	EEPROM {
+		type i2c
+		size 128
+	}
+	map {
+		0 {
+			device ROM
+			last FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				7 sda
+			}
+			bits_write {
+				6 scl
+				7 sda
+			}
+		}
+	}
+}
+MK-1228 {
+	name Greatest Heavyweights of the Ring
+	EEPROM {
+		type i2c
+		size 128
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				0 sda
+			}
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+	}
+}
+G-5538 {
+	name Greatest Heavyweights of the Ring
+	EEPROM {
+		type i2c
+		size 128
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				0 sda
+			}
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+	}
+}
+PR-1993 {
+	name Greatest Heavyweights of the Ring (Prototype)
+	EEPROM {
+		type i2c
+		size 128
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				0 sda
+			}
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+	}
+}
+00001211 {
+	name Sports Talk Baseball
+	EEPROM {
+		type i2c
+		size 128
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				0 sda
+			}
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+	}
+}
+00004076 {
+	name Honoo no Toukyuuji Dodge Danpei
+	EEPROM {
+		type i2c
+		size 128
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				0 sda
+			}
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+	}
+}
+00054503 {
+	name Game Toshokan
+	EEPROM {
+		type i2c
+		size 128
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				0 sda
+			}
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+	}
+}
+T-120106 {
+	name Brian Lara Cricket
+	EEPROM {
+		type i2c
+		size 1024
+	}
+	map {
+		0 {
+			device ROM
+			last 2FFFFF
+		}
+		300000 {
+			device EEPROM
+			last 37FFFF
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+		380000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				7 sda
+			}
+		}
+	}
+}
+T-120146 {
+	name Brian Lara Cricket 96
+	EEPROM {
+		type i2c
+		size 8192
+	}
+	map {
+		0 {
+			device ROM
+			last 2FFFFF
+		}
+		300000 {
+			device EEPROM
+			last 37FFFF
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+		380000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				7 sda
+			}
+		}
+	}
+}
+e8ff759679a0df2b3f9ece37ef686f248d3cf37b {
+	name Micro Machines: Turbo Tournament '96
+	EEPROM {
+		type i2c
+		size 2048
+	}
+	#TODO: J-Cart
+	map {
+		0 {
+			device ROM
+			last 2FFFFF
+		}
+		300000 {
+			device EEPROM
+			last 37FFFF
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+		380000 {
+			device EEPROM
+			last 387FFF
+			bits_read {
+				7 sda
+			}
+		}
+		388000 {
+			device jcart
+			last 38FFFF
+		}
+	}
+}
+9f47fcc7bb2f5921cb1c3beb06b668ffb292cb08 {
+	name Micro Machines: Turbo Tournament '96
+	EEPROM {
+		type i2c
+		size 2048
+	}
+	#TODO: J-Cart
+	map {
+		0 {
+			device ROM
+			last 2FFFFF
+		}
+		300000 {
+			device EEPROM
+			last 37FFFF
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+		380000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				7 sda
+			}
+		}
+	}
+}
+6d3df64ab8bb0b559f216adca62d1cdd74704a26 {
+	name Micro Machines: Military
+	EEPROM {
+		type i2c
+		size 1024
+	}
+	#TODO: J-Cart
+	map {
+		0 {
+			device ROM
+			last 2FFFFF
+		}
+		300000 {
+			device EEPROM
+			last 37FFFF
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+		380000 {
+			device EEPROM
+			last 387FFF
+			bits_read {
+				7 sda
+			}
+		}
+		388000 {
+			device jcart
+			last 38FFFF
+		}
+	}
+}
+T-120096 {
+	name Micro Machines 2: Turbo Tournament
+	EEPROM {
+		type i2c
+		size 2048
+	}
+	#TODO: J-Cart
+	map {
+		0 {
+			device ROM
+			last 2FFFFF
+		}
+		300000 {
+			device EEPROM
+			last 37FFFF
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+		380000 {
+			device EEPROM
+			last 387FFF
+			bits_read {
+				7 sda
+			}
+		}
+		388000 {
+			device jcart
+			last 38FFFF
+		}
+	}
+}
+MK-12056 {
+	name Super Street Fighter 2: The New Challengers
+	map {
+		0 {
+			device ROM
+			last 7FFFF
+		}
+		80000 {
+			device Sega mapper
+			last 3FFFFF
+			offset 80000
+		}
+	}
+}
+T-12056 {
+	name Super Street Fighter 2: The New Challengers
+	map {
+		0 {
+			device ROM
+			last 7FFFF
+		}
+		80000 {
+			device Sega mapper
+			last 3FFFFF
+			offset 80000
+		}
+	}
+}
+T-12043 {
+	name Super Street Fighter 2: The New Challengers
+	map {
+		0 {
+			device ROM
+			last 7FFFF
+		}
+		80000 {
+			device Sega mapper
+			last 3FFFFF
+			offset 80000
+		}
+	}
+}
+T-12046 {
+	name Mega Man - The Wily Wars
+	EEPROM {
+		type i2c
+		size 128
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				0 sda
+			}
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+	}
+}
+T-12053 {
+	name Rockman Mega World
+	EEPROM {
+		type i2c
+		size 128
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				0 sda
+			}
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+	}
+}
+MK-1079 {
+	#This entry is needed only to make this play nicely with
+	#S&K lock-on support. Normal 2MB cartridges with SRAM won't
+	#work right, but Sonic 3 has the limited SRAM-only variant
+	#of Sega's mapper commonly found on 4MB carts with SRAM
+	name Sonic the Hedgehog 3
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device Sega mapper
+			variant save-only
+			offset 200000
+			last 3FFFFF
+		}
+	}
+	
+}
+MK-1563 {
+	name Sonic & Knuckles
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device LOCK-ON
+			last 3FFFFF
+			offset 200000
+		}
+	}
+}
+G-4060 {
+	name Wonder Boy in Monster World
+	EEPROM {
+		type i2c
+		size 128
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				0 sda
+			}
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+	}
+}
+G-4524 {
+	name Ninja Burai Densetsu
+	EEPROM {
+		type i2c
+		size 128
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				0 sda
+			}
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+	}
+}
+T-70106- {
+	name Another World
+	#European version of this game has EUROPE in the region field rather than just E
+	regions E
+}
+G-004130 {
+	name Alien Soldier
+	#Japanese version of this game seems to indicate support for European consoles in
+	#the header. While the game does indeed run, most people probably expect 60Hz
+	#if they are running the Japanese version rather than the European one
+	regions J
+}
+G-005545 {
+	name Light Crusader
+	#Japanese version of this game seems to indicate support for European consoles in
+	#the header. While the game does indeed run, most people probably expect 60Hz
+	#if they are running the Japanese version rather than the European one
+	regions J
+}
+
+00004042 {
+	name Castle of Illusion: Fushigi no Oshiro Daibouken
+	#Has JAPAN in header rather than J, A gets interpreted as a "new-style" code
+	regions J
+}
+T-48036 {
+	name Ms. Pac-Man
+	#Ms. Pac-Man doesn't like 6-button controllers
+	device_overrides {
+		1 gamepad3.1
+		2 gamepad3.2
+	}
+}
+T-103026 {
+	name King of the Monsters
+	#This game won't work at all with a properly emualted 6-button controller
+	device_overrides {
+		1 gamepad3.1
+		2 gamepad3.2
+	}
+}
+T-119106 {
+	name Combat Cars
+	#Routine in the main game seems to work fine with 6-button controllers,
+	#but options menu has problems.
+	device_overrides {
+		1 gamepad3.1
+		2 gamepad3.2
+	}
+}
+T-113106 {
+	name Second Samurai
+	#Pause doesn't work right with a 6-button controller
+	device_overrides {
+		1 gamepad3.1
+		2 gamepad3.2
+	}
+}
+MK-1304 {
+	name Dungeons & Dragons - Warriors of the Eternal Sun
+	#Switching characters cycles too fast with a 6-button controller
+	device_overrides {
+		1 gamepad3.1
+		2 gamepad3.2
+	}
+}
+#Automatically hook up the mouse in the appropriate port for the games I've tested
+T-76076 {
+	name Nobunaga's Ambition
+	device_overrides {
+		2 mouse.1
+	}
+}
+T-97056 {
+	name Fun 'N' Games
+	device_overrides {
+		2 mouse.1
+	}
+}
+MK-1552 {
+	name Richard Scarry's Busytown
+	device_overrides {
+		1 mouse.1
+	}
+}
+MK-1713 {
+	name Wacky Worlds
+	device_overrides {
+		2 mouse.1
+	}
+}
+T-97056- {
+	name Fun 'n' Games
+	device_overrides {
+		2 mouse.1
+	}
+}
+T-130016 {
+	name Shanghai II: Dragon's Eye
+	device_overrides {
+		1 mouse.1
+	}
+}
+T-50286 {
+	name Buck Rogers: Countdown to Doomsday
+	SRAM {
+		size 8192
+		bus odd
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device SRAM
+			last 3FFFFF
+		}
+	}
+}
+MK-1215 {
+	name Evander 'Real Deal' Holyfield's Boxing
+	EEPROM {
+		type i2c
+		size 128
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device EEPROM
+			last 3FFFFF
+			bits_read {
+				0 sda
+			}
+			bits_write {
+				0 sda
+				1 scl
+			}
+		}
+	}
+}
+ACLD012 {
+	name Hardball III
+	SRAM {
+		size 32768
+		bus odd
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device SRAM
+			last 3FFFFF
+		}
+	}
+}
+T-50166 {
+	name Might and Magic - Gates to Another World
+	SRAM {
+		size 32768
+		bus odd
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device SRAM
+			last 3FFFFF
+		}
+	}
+}
+9bed099693c27a6575b394bdd150efb7cc53c5c6 {
+	name Atomic Robo-Kid
+	regions J
+}
+d366d05644eb59a14baf3c2e7281c1584630c021 {
+	name Might and Magic III - Isles of Terra
+	SRAM {
+		size 32768
+		bus odd
+	}
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device SRAM
+			last 3FFFFF
+		}
+	}
+}
+8fe0806427e123717ba20478ab1410c25fa942e6 {
+	name Ya Se Chuan Shuo
+	map {
+		0 {
+			device ROM
+			last 3FFFFF
+		}
+		400000 {
+			device fixed
+			value 6300
+			last 400001
+		}
+		400002 {
+			device fixed
+			value 9800
+			last 400003
+		}
+		400004 {
+			device fixed
+			value C900
+			last 400005
+		}
+		400006 {
+			device fixed
+			value 1800
+			last 400007
+		}
+	}
+}
+7857c797245b52641a3d1d4512089bccb0ed5359 {
+	name 16 Zhang Ma Jiang
+	map {
+		0 {
+			device ROM
+			last 3FFFFF
+		}
+		400002 {
+			device fixed
+			value AA00
+			last 400003
+		}
+		400006 {
+			device fixed
+			value F000
+			last 400007
+		}
+	}
+}
+5fc4591fbb1acc64e184466c7b6287c7f64e0b7a {
+	name Elf Wor
+	map {
+		0 {
+			device ROM
+			last 3FFFFF
+		}
+		400000 {
+			device fixed
+			value 5500
+			last 400001
+		}
+		400002 {
+			device fixed
+			value 0F00
+			last 400003
+		}
+		400004 {
+			device fixed
+			value C900
+			last 400005
+		}
+		400006 {
+			device fixed
+			value 1800
+			last 400007
+		}
+	}
+}
+df7a2527875317406b466175f0614d343dd32117 {
+	name Huan Le Tao Qi Shu: Smart Mouse
+	map {
+		0 {
+			device ROM
+			last 3FFFFF
+		}
+		400000 {
+			device fixed
+			value 5500
+			last 400001
+		}
+		400002 {
+			device fixed
+			value 0F00
+			last 400003
+		}
+		400004 {
+			device fixed
+			value AA00
+			last 400005
+		}
+		400006 {
+			device fixed
+			value F000
+			last 400007
+		}
+	}
+}
+25d2d6a5ab20e16b8b42b67e5fb338421b64b29b {
+	name Mighty Morphin' Power Rangers: The Fighting Edition
+	map {
+		0 {
+			device ROM
+			last 3FFFFF
+		}
+		400000 {
+			device fixed
+			value 5500
+			last 400001
+		}
+		400002 {
+			device fixed
+			value 0F00
+			last 400003
+		}
+		400004 {
+			device fixed
+			value C900
+			last 400005
+		}
+		400006 {
+			device fixed
+			value 1800
+			last 400007
+		}
+	}
+}
+03f40c14624f1522d6e3105997d14e8eaba12257 {
+	name Super Bubble Bobble MD
+	map {
+		0 {
+			device ROM
+			last 3FFFFF
+		}
+		400000 {
+			device fixed
+			value 5500
+			last 400001
+		}
+		400002 {
+			device fixed
+			value 0F00
+			last 400003
+		}
+	}
+}
+3dca68795b6c9a16cafa5e71218d5ce83aa465fc {
+	name Thunderbolt II
+	map {
+		0 {
+			device ROM
+			last 3FFFFF
+		}
+		400000 {
+			device fixed
+			value 5500
+			last 400001
+		}
+		400006 {
+			device fixed
+			value F000
+			last 400007
+		}
+	}
+}
+2a561b6e47c93272fe5947084837d9f6f514ed38 {
+	name Squirrel King
+	map {
+		0 {
+			device ROM
+			last 3FFFFF
+		}
+		400000 {
+			device RAM
+			size 2
+			bus both
+			last 7FFFFF
+		}
+	}
+}
+
+#This entry is used by the GUI ROM
+BlstMenu {
+	map {
+		0 {
+			device ROM
+			last FFFFF
+		}
+		100000 {
+			device RAM
+			size 80000
+			last 17FFFF
+		}
+		180000 {
+			device MENU
+			last 1FFFFF
+		}
+	}
+	device_overrides {
+		1 gamepad3.1
+		2 mouse.1
+		ext none
+	}
+	mouse_mode absolute
+}
+
+6568b3a4e096159776ef8687a80d43589741fd60 {
+	name Magistr 16 BIOS
+	NOR {
+		size 262144
+		page_size 128
+		product_id DA45
+		bus even
+	}
+	map {
+		0 {
+			device ROM
+			last 3FFFFF
+		}
+		400000 {
+			device NOR
+			last 5FFFFF
+		}
+#		600000 {
+#			device Super IO
+#			last 7FFFFF
+#		}
+		E00000 {
+			device RAM
+			size 40000
+			last FFFFFF
+			bus both
+		}
+	}
+}
+
+7313c20071de0ab1cd84ac1352cb0ed1c4a4afa8 {
+	#This appears to be an underdump, but it seems to be the only copy floating around 
+	name 12-in-1
+	map {
+		0 {
+			device multi-game
+			last 3FFFFF
+		}
+	}
+}
+6b2a6de2622735f6d56c6c9c01f74daa90e355cb {
+	name Super 15-in-1
+	map {
+		0 {
+			device multi-game
+			last 3FFFFF
+		}
+	}
+}
+e1c041ba69da087c428dcda16850159f3caebd4b {
+	name Super 19-in-1
+	map {
+		0 {
+			device multi-game
+			last 3FFFFF
+		}
+	}
+}
+31c66bd13abf4ae8271c09ec5286a0ee0289dbbc {
+	#Designed to run on Sega Channel hardware which is RAM-based
+	#writes to the this RAM qutie a bit to select games
+	name Game no Kanzume Otokuyou
+	map {
+		0 {
+			device ROM
+			last 3FFFFF
+			writeable yes
+		}
+	}
+}
+cda73e4caf53cbc8f0750b69e5e7f394ad3735d1 {
+	name MegaWiFi Bootloader
+	NOR {
+		size 4194304
+		page_size 128
+		product_id DA45
+		bus both
+		init ROM
+		cmd_address1 AAB
+		cmd_address2 555
+	}
+	map {
+		0 {
+			device NOR
+			last 3FFFFF
+		}
+		A130C0 {
+			device megawifi
+			last A130CF
+		}
+	}
+}
+222a66cdb8865a7f89e5a72418413888bb400176 {
+	#I've personally confirmed this version had a J-Cart
+	#release, but unlike the other revision it runs without it
+	name Pete Sampras Tennis
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device jcart
+			last 3FFFFF
+		}
+	}
+}
+4c830ace4590294bb374b4cab71ebebf44d9a07a {
+	#This version will not accept input if J-Cart hardware is missing
+	name Pete Sampras Tennis
+	map {
+		0 {
+			device ROM
+			last 1FFFFF
+		}
+		200000 {
+			device jcart
+			last 3FFFFF
+		}
+	}
+}

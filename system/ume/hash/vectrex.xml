@@ -1,0 +1,974 @@
+<?xml version="1.0"?>
+<!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
+<!--
+license:CC0
+
+There exists an undumped cart which is a sort-of-proto
+
+ - Cube Quest
+
+It had been programmed by the same creator of the arcade
+Cube Quest and released in 2002 by CGE (Classic Gaming Expo)
+guys
+
+
+Dumps do not appear to be available for the following homebrew physical cartridge releases:
+
+3D Sector-X
+3D Sector-X Hell's Fury
+Alien Hunter
+Big Blue
+Brecher
+Color Clash
+Color Clash Slim
+Continuum - The Infernal Tetramorph
+Continuum - The 7 Pillars of Purgatory
+Continuum - Time Warp
+Dead of Knight
+Debris
+Debris Revisited
+Eineiig
+Flak
+Frontier - Dead or Alive
+Gravitrex Plus (64K cart)
+I, Cyborg
+I, Cyborg - Edition X
+I, Cyborg - OMEGA
+Irrelevant
+Logo
+Menschenjagd
+N.E.L.S.
+Obsolet
+Omega Chase Deluxe
+Protector - Limited Edition
+Rockaroids (original)
+Royal 21 Christmas
+Shifted
+Space Frenzy (64K cart)
+Spinnerama
+Staiga
+Star Sling
+Stramash Zone
+Sundance
+Sundance - Dark of the Sun
+Sundance - Matrix
+Tsunami/Vix
+VeCaves/Spike's Spree
+Vecmania (64K cart)
+Vec Sports Boxing
+Vectopia (64K cart)
+Vector 21 - A Fistful of Wildcards!
+Vector 21 - OMEGA
+Vector Pilot
+Vectrexians (has a more elaborate title screen than the downloadable version)
+Vectrexians Deluxe
+War of the Robots - OMEGA
+War of the Worlds
+War of the Worlds - Time Rift
+
+-->
+
+<softwarelist name="vectrex" description="GCE Vectrex cartridges">
+
+	<software name="3dminest">
+		<description>3D Mine Storm</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="3dmnstrm.bin" size="8192" crc="b2313487" sha1="1731e892da8945fe4945b43847d23960c581682a" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3dscape" supported="partial">
+		<description>3D Scape Demo Collection</description>
+		<year>2006</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Revival Studios" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "32015">
+				<rom name="3D Scape Demo Collection (Revival Studios, 2006).bin" size="32015" crc="5b46e44b" sha1="7dcda1acde45ba4f6433466523c7a0cc09b5918d" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="agt">
+		<description>All Good Things</description>
+		<year>1996</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="programmer" value="John Dondzila" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "16384">
+				<rom name="agt.bin" size="16384" crc="e98ab5a2" sha1="85588ca116fe3695f19e1d06dd0853220a5b2f39" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="animactn">
+		<description>Animaction</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="animactn.bin" size="8192" crc="9f62e167" sha1="71946be47debae89ad191ac382c2015d6a862072" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="armora">
+		<description>Armor Attack</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="armora.bin" size="4096" crc="b7510971" sha1="eb76f860130f8cc87826fa931350467760511213" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="artmastr">
+		<description>Art Master</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="artmastr.bin" size="4096" crc="c8e2f247" sha1="8f35bac5e8e0fc4ad7291bbfe5ae6e693272de06" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bedlam">
+		<description>Bedlam</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="bedlam.bin" size="4096" crc="a2fa649b" sha1="3ff3fa4feda6d562dedff2a10cfa8679d8318044" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="berzerk">
+		<description>Berzerk</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="berzerk.bin" size="4096" crc="eafe2455" sha1="e4badd494ed548721328ef869d33ad70e3e522c9" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="blitz">
+		<description>Blitz!</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="blitz.bin" size="8192" crc="0f11ce0c" sha1="60893dfada42cf50c94083d45ad5bd14d0c031c8" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="blitza" cloneof="blitz">
+		<description>Blitz! (Alt)</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="blitza.bin" size="8192" crc="881b27c5" sha1="aa1aa811c9ce5e19f43b78a6531cdd0e707337bd" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+<!-- Displays "FREEWARE" on the title screen instead of a serial number as on the actual cartridge release -->
+	<software name="citybomb">
+		<description>City Bomber</description>
+		<year>2007</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="programmer" value="Andrew Coleman" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "1955">
+				<rom name="Vectrex City Bomber Freeware Edition.bin" size="1955" crc="8041bd7a" sha1="9b2164d5224252923bbc5e7270f4b84aba7f2f94" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cleanswp">
+		<description>Clean Sweep</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="cleanswp.bin" size="4096" crc="f1b1de78" sha1="67f8513958c04e936b135740ed4ec6e6fa1763d5" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="mrboston" cloneof="cleanswp">
+		<description>Mr. Boston Clean Sweep</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="mrboston.bin" size="8192" crc="bd4da4c2" sha1="299841a116e59399af4e74ccae23ddfc078e007b" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="continuum">
+		<description>Continuum</description>
+		<year>2010</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Fury Unlimited" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "18755">
+				<rom name="continuum.bin" size="18755" crc="05f6d6fc" sha1="9871246e05e9f145ff98a7a3c784e45ecd96c094" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cchasm">
+		<description>Cosmic Chasm</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="cchasm.bin" size="4096" crc="6c1afa52" sha1="56a7f277bf09f94461dda542c04c36266d838b86" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ccoaster">
+		<description>Crazy Coaster</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="crzycstr.bin" size="8192" crc="92709b11" sha1="4a833e4869221f832dacb7ef0fb2997c870b7d7f" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="darktowr">
+		<description>Dark Tower (Prototype)</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="12288">
+				<rom name="darktwer.bin" size="12288" crc="9dcfd5b7" sha1="dbb0b378aacc2a18dfb476aa99ab00d6ab395205" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="enginean">
+		<description>Engine Analyzer (Prototype)</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="enginean.bin" size="4096" crc="fe9a501a" sha1="c226d78301dbe40f2194c165f2124d5afa885be4" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fnarzod">
+		<description>Fortress of Narzod</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="fnarzod.bin" size="8192" crc="13a35c8a" sha1="286e061331289b031de33725a4966c379c1df47f" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="headsup">
+		<description>Heads Up</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="headsup.bin" size="8192" crc="e61a7de3" sha1="0406c13952fb0bd6adc68298ae163ebc6160484c" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="hexed">
+		<description>Hexed!</description>
+		<year>2013</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Fury Unlimited" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "12140">
+				<rom name="hexed.bin" size="12140" crc="8c967871" sha1="e4ffa0df9b24553b62555a39e2b73d98933507ee" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="hyprchas">
+		<description>Hyperchase</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="hyprchse.bin" size="4096" crc="4bb13472" sha1="a246f1d94a5b062b60784787a1d6d499b21c10cd" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+<!-- Displays "FREE" on the title screen instead of a serial number as on the actual cartridge release -->
+	<software name="lotr">
+		<description>Lord of the Robots</description>
+		<year>2006</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Fury Unlimited" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "12922">
+				<rom name="lotr.bin" size="12922" crc="22ccd2ba" sha1="6bfc8750d4e10bd5b80f6021b3193f516783a885" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="mailplan">
+		<description>Mail Plane (Prototype)</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="mail_plane.bin" size="8192" crc="da1ac0db" sha1="05f56e708f752ca801f8013c7da9b0db01508ba5" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+<!-- This is an incomplete version (or badly burned on cart). It does not work beyond the initial cargo phase. -->
+	<software name="mailplan1" cloneof="mailplan">
+		<description>Mail Plane (Early Prototype)</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="mailplne.bin" size="8192" crc="05838962" sha1="969d5ec7d7aba9ac25e54069149d9586217ab63d" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="melody">
+		<description>Melody Master</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="mldymstr.bin" size="8192" crc="afefa29c" sha1="58aecc7fb1d26a22b09e9a13d845e4ed12e2449d" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="minestrm">
+		<description>Mine Storm</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="minestrm.bin" size="4096" crc="6d509566" sha1="5f00ed35f189357b4a16a190520166371ca57906" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="minestr2" cloneof="minestrm">
+		<description>Mine Storm II</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="minestr2.bin" size="4096" crc="f5b3b374" sha1="1fdcc6e54ae5177bc9cdc79ce616ae3401e5c229" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="moonland">
+		<description>Moon Lander</description>
+		<year>1997</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="programmer" value="Clay Cowgill" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "32768">
+				<rom name="moon lander.bin" size="32768" crc="8617c304" sha1="7c0752c24b3645b716337b57fe6f4bc4064e9eb0" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="narrowes">
+		<description>Narrow Escape</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="nrrwescp.bin" size="8192" crc="050bd949" sha1="9e5d23cb7ef111394e1804e105b6dd277c062df6" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="nebula">
+		<description>Nebula Commander</description>
+		<year>2005</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="programmer" value="Craig Aker" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "8192">
+				<rom name="nebula.bin" size="8192" crc="a97f6c31" sha1="7fde2967b0a373a1a18462b7416811d127502c15" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="patriots">
+		<description>Patriots</description>
+		<year>1996</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="programmer" value="John Dondzila" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "8192">
+				<rom name="patriots.bin" size="8192" crc="7d709da2" sha1="481aa3b761f34747fe769c8420564e4f37529c26" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="perfvx">
+		<description>Performance VX</description>
+		<year>2003</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Revival Studios" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "9323">
+				<rom name="revival_performancevx.bin" size="9323" crc="675631e7" sha1="91b0cb5ce4cf25878144aee6516c01742890bcb1" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ptchduel">
+		<description>Pitcher's Duel (Prototype)</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="ptchduel.bin" size="8192" crc="c25f2e0e" sha1="f6f26beb20bb364761a9466ff4087c7b9713d048" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="polarres">
+		<description>Polar Rescue</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="polarres.bin" size="8192" crc="a7471784" sha1="87248dcd3db51c1ebf3f8e07e21ec021eec0b9be" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="polarresp" cloneof="polarres">
+		<description>Polar Rescue (Prototype)</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="polarrsb.bin" size="8192" crc="ad844645" sha1="b7bd8c8003c60535e1e776758f5c289aa9a77e81" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="polepos">
+		<description>Pole Position</description>
+		<year>1983</year>
+		<publisher>GCE / Namco Ltd.</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="polepos.bin" size="8192" crc="a00ed3d6" sha1="8454d472435e7a6a4ca5fe129162480ca6e84b87" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="poleposa" cloneof="polepos">
+		<description>Pole Position (Alt)</description>
+		<year>1983</year>
+		<publisher>GCE / Namco Ltd.</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="poleposa.bin" size="8192" crc="c10f37d8" sha1="9f5b0b5e6caf6d887d3637ace70ad6a6258b999d" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="protyasi">
+		<description>Protector and Y*A*S*I</description>
+		<year>2005</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="programmer" value="Alex Herbert" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "32768">
+				<rom name="py050712.bin" size="32768" crc="62f062fe" sha1="c84cce8b3c889157718fd7290438ed49f8e38bce" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="revector">
+		<description>Revector</description>
+		<year>2004</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="programmer" value="Craig Aker" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "16384">
+				<rom name="revector.bin" size="16384" crc="69dba2be" sha1="d0db028d166997667fb2bd5363f16ce058dcca5d" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ripoff">
+		<description>Rip-Off</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="ripoff.bin" size="4096" crc="34a98132" sha1="22f7a490f6f7aaa31e892b03a85178af211f62e3" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="rockremx">
+		<description>Rockaroids Remix</description>
+		<year>1996</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="programmer" value="John Dondzila" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "4096">
+				<rom name="rocks.bin" size="4096" crc="d1e0268f" sha1="a10ffb6efdf32a63f7c4da8bb0b7f8d5fd6cdb98" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="rocksled">
+		<description>Rocket Sledge (Sample)</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="3671">
+				<rom name="rcktsldg.bin" size="3671" crc="863b89e8" sha1="526b347bc02a47c8bda326b1f6da50284127f038" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="rgc">
+		<description>Ronen's Games Cart</description>
+		<year>2000</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="programmer" value="Ronen Habot" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "15602">
+				<rom name="rgc.bin" size="15602" crc="aacf1d20" sha1="5f942034ed8e953361d2c01898b80b81489618f6" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="royal21">
+		<description>Royal 21</description>
+		<year>2009</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Fury Unlimited" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "11797">
+				<rom name="royal21.bin" size="11797" crc="021796db" sha1="ed5d29b9014588c30a1c81d3fc805fc92549b83a" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="scramble">
+		<description>Scramble</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="scramble.bin" size="4096" crc="707c8ffe" sha1="38e38b5c60466146d4648f8929b5ce3a08dcbe0d" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="sectis">
+		<description>Sectis</description>
+		<year>2010</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Fury Unlimited" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "32309">
+				<rom name="sectis.bin" size="32309" crc="2a9b2fe5" sha1="07f638cdd5e5df8e96ac69b1eba6a663207fff2e" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="solarq">
+		<description>Solar Quest</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="solarq.bin" size="4096" crc="5c4611c8" sha1="38072dc491d5c729c06f4c50bc310d361e0ff62a" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="spacewar">
+		<description>Space Wars</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="spacewar.bin" size="4096" crc="a3be5aff" sha1="0c229dd12a55044681585f7fdabd37dbc1243b59" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="spike">
+		<description>Spike</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="spike.bin" size="8192" crc="62a61843" sha1="8bba6705e6f69f55ab6d105eac2fd5b0c0d16d9f" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="spikehop">
+		<description>Spike Hoppin'</description>
+		<year>1997</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="programmer" value="John Dondzila" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "16384">
+				<rom name="spikehop.bin" size="16384" crc="1c6b030e" sha1="775d6e5fd438246a256f27a2a5145368ec7d2cbe" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="spikewb">
+		<description>Spike's Water Balloons - Analog Version</description>
+		<year>2000</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="programmer" value="John Dondzila" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "2980">
+				<rom name="swb-ana.bin" size="2980" crc="95188f66" sha1="b83fa76da4e4bbe861be821c4eb78abd8c9657b9" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="spinball">
+		<description>Spinball</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="spinball.bin" size="8192" crc="02f41733" sha1="2e8285061530ccadfa2d8d11c374ae244449ebfa" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="starcas">
+		<description>Star Castle</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="starcas.bin" size="4096" crc="c9039623" sha1="c9b79f1ba30dcbce5a068b606a97775cf863fe0a" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="starship" cloneof="startrek">
+		<description>Star Ship</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="starship.bin" size="4096" crc="7967a8cb" sha1="d182eac5a54ffc642fcbe4a495c7c09f87b43585" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="startrek">
+		<description>Star Trek - The Game</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="startrek.bin" size="4096" crc="3768d8c3" sha1="3a2ee61316fb316d9e9efdf5ee405e813475b466" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="starhawk">
+		<description>Star Hawk</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="starhawk.bin" size="4096" crc="4de1f06b" sha1="d6b388b3951e34971c1b00c7fdf8dd00ad52df09" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="testrev4">
+		<description>Test (Rev. 4)</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="testrev4.bin" size="4096" crc="7297e815" sha1="e3418055f1e79a2300572c557e71bf2ce8badbfa" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="thrust">
+		<description>Thrust (1.2)</description>
+		<year>2004</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="programmer" value="Ville Krumlinde" />
+		<info name="version" value="1.2" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "32478">
+				<rom name="thrust.bin" size="32478" crc="e6eaf7c4" sha1="f9b4f1504abc78124ac7823ae87f97dcfa1925d3" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="thrusta" cloneof="thrust">
+		<description>Thrust (Final 1.01)</description>
+		<year>2004</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="programmer" value="Ville Krumlinde" />
+		<info name="version" value="1.01" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "32497">
+				<rom name="thrusta.bin" size="32497" crc="569b50e7" sha1="451ba51be3f94b3a625627866877239aee61766d" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="tourfrnc">
+		<description>Tour de France (Prototype)</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="tourdefr.bin" size="8192" crc="bb4791f1" sha1="4f461b0b51c82433e70130eac5494f26239b4453" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="vector21" supported="partial">
+		<description>Vector 21</description>
+		<year>2006</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Fury Unlimited" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "12289">
+				<rom name="vector21.bin" size="12289" crc="9d47924b" sha1="7fdad46384f6a06cfb73a6e908be6b91ad62c526" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="vaders">
+		<description>Vector Vaders</description>
+		<year>1996</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="programmer" value="John Dondzila" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "8192">
+				<rom name="vaders.bin" size="8192" crc="825987e3" sha1="83a6269a9275d8ce48c58b5560fb2d7324eaeea0" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="frogger">
+		<description>Vectrex Frogger</description>
+		<year>1998</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="programmer" value="Christopher Salomon" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "16384">
+				<rom name="frogger.bin" size="16384" crc="9c5410be" sha1="7f014697309efca22f310448acb02c8e5da89c6a" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+<!-- Uses the unemulated VecVoice or VecVox add-ons -->
+	<software name="verzerk" supported="partial">
+		<description>Verzerk (Berzerk hack)</description>
+		<year>2002</year>
+		<publisher>&lt;hack&gt;</publisher>
+		<info name="programmer" value="Alex Herbert" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "29218">
+				<rom name="verzerk.bin" size="29218" crc="59665f3d" sha1="a118510a934184762a032326bb105e2de084a5c1" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+<!-- Displays "FREEWARE" on the title screen, likely different from the actual cartridge release -->
+	<software name="wotr">
+		<description>War of the Robots</description>
+		<year>2003</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Fury Unlimited" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "20879">
+				<rom name="wotr.bin" size="20879" crc="09b7daeb" sha1="8bd8d9ccecb1fc22d36291383cf3eb23175e4b11" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+<!-- Displays "FREEWARE" on the title screen, likely different from the actual cartridge release -->
+	<software name="wotrbttq">
+		<description>War of the Robots - Bow to the Queen</description>
+		<year>2003</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Fury Unlimited" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "20920">
+				<rom name="bttq.bin" size="20920" crc="5799bfde" sha1="b61a8e84e379489e191395c9ee08bd04399a04c0" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="webwarp">
+		<description>Web Warp</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="webwarp.bin" size="8192" crc="521107c3" sha1="9681dc5d38a31cb0d0c6c3bd0fc76bfdde531cce" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="webwars" cloneof="webwarp">
+		<description>Web Wars</description>
+		<year>1983</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="8192">
+				<rom name="webwars.bin" size="8192" crc="2ee20103" sha1="08e2df9f7769c16a4d730adf8d659f8ea4be7f9d" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="zantis">
+		<description>Zantis</description>
+		<year>2011</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Fury Unlimited" />
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size = "7089">
+				<rom name="zantis.bin" size="7089" crc="9f623f4d" sha1="865b79702b5f86576f23208e4ae8fd53f4f12f87" offset="0"/>
+			</dataarea>
+		</part>
+	</software>
+
+<!-- Are these legit dumps or hacked versions by the guy at ClassicGameCreations.com? -->
+
+	<software name="berzerkd" cloneof="berzerk">
+		<description>Berzerk (Debugged Prototype)</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="32768">
+				<rom name="berzerkd.bin" size="32768" crc="2adc4eaa" sha1="88031823ed2af95e8a7a6239cd83b158f9b7c16a" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="startrekd" cloneof="startrek">
+		<description>Star Trek (Debugged Prototype)</description>
+		<year>1982</year>
+		<publisher>GCE</publisher>
+		<part name="cart" interface="vectrex_cart">
+			<feature name="slot" value="vec_rom" />
+			<dataarea name="rom" size="4096">
+				<rom name="startrekp.bin" size="4096" crc="563f846b" sha1="21707811e544edae66ca076351bf0743842b46e5" offset="0" />
+			</dataarea>
+		</part>
+	</software>
+
+</softwarelist>

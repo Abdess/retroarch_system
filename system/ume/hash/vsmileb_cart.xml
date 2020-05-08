@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
+<!--
+license:CC0
+
+V.Smile Motion:               80-08****  (Smartridges are orange)
+V.Smile Smartbook Software:   80-089***  (Smartridges are red)
+V.Smile:                      80-09****  (Smartridges are purple, some are gray because of plastic defects)
+V.Smile Baby                  80-099***  (Smartridges are yellow, incompatible with TV based V.Smile consoles)
+V.Baby                        80-22****  (Smartridges are orange, incompatible with other V.Smile consoles, including V.Smile Baby)
+
+Language:
+********0 = US                (White labels on back)
+********1 = Italy             Apparently distributed by company 'Giochi Preziosi'
+********2 = Netherlands       (Red or White labels on back)
+********3 = UK                (Red labels on back)
+********4 = Germany           (Blue labels on back)
+********5 = France            (Yellow labels on back, also for NTSC French-Canadian)
+********6 = Portugal          Apparently distributed by company 'Concentra' (White labels on back)
+********7 = Spain             (Green labels on back)
+*******13 = Denmark           Distributed by the company 'Top Toy A/S'
+*******14 = Sweden            Distributed by the company 'Top Toy A/S'
+*******15 = Norway
+*******?? = Finland
+
+VTech V.Smile Baby cartridges
++========+===================+============================================================================+
+| Dumped |      Serial       |                                    Name                                    |
++========+===================+============================================================================+
+|        | 80-099000(US)     | Learn and Discover Home (white background on title) (pack-in)              |
+|        | 80-099000(US)     | Learn and Discover Home (green background on title) (standalone)           |
+|        | 80-099002(NL)     | Dierenhuis                                                                 |
+|        | 80-099003(UK)     | Learn and Discover Home (white background on title) (pack-in)              |
+|   XX   | 80-099004(GE)     | Meine kleinen Tierfreunde (Explore and Learn Home on label)                |
+|   XX   | 80-099005(FR)     | La Maison des animaux                                                      |
+|   NA   | 80-099014(SE)     | Lär och upptäck (no-ROM cartridge)                                         |
++========+===================+============================================================================+
+|   XX   | 80-099020(US)     | Pooh's Hundred Acre Wood Adventure                                         |
+|        | 80-099022(NL)     | Poeh's Honderd Bunderbos Avontuur                                          |
+|        | 80-099023(UK)     | Pooh's Hundred Acre Wood Adventure                                         |
+|   NA   | 80-099024(GE)     | Puuhs Hundert-Morgen-Wald (no-ROM cartridge)                               |
+|        | 80-099025(FR)     | Winnie et ses amis dans la Forêt des Rêves Bleus                           |
+|   NA   | 80-099027(SP)     | Aventuras en el Bosque de los Cien Acres (no-ROM cartridge)                |
+|   XX   | 80-099034(SE)     | Nalle Puhs Äventyr i Sjumilaskogen                                         |
++========+===================+============================================================================+
+|        | 80-099040(US)     | Baby Einstein - World of Discoveries                                       |
+|        | 80-099040(US)     | Baby Einstein - World of Discoveries (no # on front label)                 |
+|        | 80-099043(UK)     | Baby Einstein - World of Discoveries                                       |
+|   XX   | 80-099045(FR)     | Baby Einstein - Un monde de découvertes                                    |
++========+===================+============================================================================+
+|        | 80-099060(US)     | A Day On The Farm                                                          |
+|        | 80-099063(UK)     | A Day On The Farm                                                          |
+|   XX   | 80-099064(GE)     | Mein erster Bauernhof                                                      |
+|   XX   | 80-099065(FR)     | Un jour à la ferme                                                         |
+|   XX   | 80-099067(SP)     | Un Día en la Granja                                                        |
++========+===================+============================================================================+
+|        | 80-099080(US)     | <Unknown>                                                                  |
++========+===================+============================================================================+
+|        | 80-099100(US)     | Noah's Ark Animal Adventure                                                |
+|        | 80-099102(NL)     | De ark van Noach                                                           |
+|        | 80-099103(UK)     | Noah's Ark Animal Adventure                                                |
+|        | 80-099105(FR)     | L'arche de Noé - L'aventure des animaux                                    |
++========+===================+============================================================================+
+|        | 80-099120(US)     | Barney - Let's Go to a Party                                               |
++========+===================+============================================================================+
+|        | 80-099140(US)     | Teletubbies                                                                |
+|        | 80-099142(NL)     | Teletubbies                                                                |
+|        | 80-099143(UK)     | Teletubbies                                                                |
+|        | 80-099145(FR)     | Teletubbies                                                                |
++========+===================+============================================================================+
+|        | 80-099160(US)     | Discovery with Baby Mickey and Friends                                     |
+|        | 80-099163(UK)     | Discovery with Baby Mickey and Friends                                     |
+|        | 80-099165(UK)     | Les decouvertes de Mickey et ses amis                                      |
++========+===================+============================================================================+
+|        | 80-099180(US)     | Bailey Goes To Town (Included Bailey Plush Bear Controller)                |
+|        | 80-099183(UK)     | Bailey Goes To Town (Included Bailey Plush Bear Controller)                |
++========+===================+============================================================================+
+|        | 80-099200(US)     | Mother Goose                                                               |
++========+===================+============================================================================+
+|        | 80-099220(US)     | Care Bears Play Day                                                        |
++========+===================+============================================================================+
+|        | 80-099240(US)     | Backyardigans: Big Backyard Adventures                                     |
++========+===================+============================================================================+
+
+-->
+
+<softwarelist name="vsmileb_cart" description="VTech V.Smile Baby cartridges">
+
+
+	<software name="babyeninf" supported="no">
+		<description>Baby Einstein - Un monde de découvertes (France)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<info name="serial" value="80-099045(FR)" />
+		<part name="cart" interface="vsmile_cart">
+			<feature name="u4" value="U4" />
+			<dataarea name="rom" size="8388608">
+				<rom name="099045 - Baby Einstein (BABY) (FR).bin" size="8388608" crc="d0690ae6" sha1="bde281db67b477798974983a505bed7497e25763" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dayfarmg" supported="no">
+		<description>Mein erster Bauernhof (Germany)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<info name="serial" value="80-099064(GE)" />
+		<part name="cart" interface="vsmile_cart">
+			<feature name="pcb" value="707154" />
+			<feature name="pcb_model" value="707154-3" />
+			<feature name="u4" value="U4" /> <!-- ROM -->
+			<dataarea name="rom" size="8388608">
+				<rom name="27-08788-000.u4" size="8388608" crc="581e16f9" sha1="330b309644db9f017d275b9df0ffe7530ed5bcef" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dayfarmf" cloneof="dayfarmg" supported="no">
+		<description>Un jour à la ferme (France)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<info name="serial" value="80-099065(FR)" />
+		<part name="cart" interface="vsmile_cart">
+			<feature name="u4" value="U4" />
+			<dataarea name="rom" size="8388608">
+				<rom name="099065 - Un Jour A La Ferme (BABY) (FR).bin" size="8388608" crc="a2777808" sha1="bbd2ae83d7ff43caa1e1d74b050d6130a0cd5e6f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dayfarms" cloneof="dayfarmg" supported="no">
+		<description>Un Día en la Granja (Spain)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<info name="serial" value="80-099067(SP)" />
+		<part name="cart" interface="vsmile_cart">
+			<feature name="pcb" value="707154" />
+			<feature name="pcb_model" value="707154-2" />
+			<feature name="u4" value="U4" /> <!-- ROM -->
+			<dataarea name="rom" size="8388608">
+				<rom name="99067 - Un Dia en la Granja (SP).bin" size="8388608" crc="03735215" sha1="228dc683ba1f7f7f4a61a34b29d61fe9077d2cab" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- "Learn and Discover Home" -->
+	<software name="learndhg" supported="no">
+		<description>Meine kleinen Tierfreunde (Germany)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<info name="serial" value="80-099004(GE)" />
+		<part name="cart" interface="vsmile_cart">
+			<feature name="pcb" value="707154" />
+			<feature name="pcb_model" value="707154-3" />
+			<feature name="u4" value="U4" /> <!-- EPOXY BLOB ROM -->
+			<dataarea name="rom" size="8388608">
+				<rom name="99004.u4" size="8388608" crc="7b48544b" sha1="a736ef1313762c493a366990406c3a7393457b6e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- "Learn and Discover Home" -->
+	<software name="learndhf" cloneof="learndhg" supported="no">
+		<description>La Maison Des Animaux (France)</description>
+		<year>200?</year>
+		<publisher>VTech</publisher>
+		<info name="serial" value="80-099005(FR)" />
+		<part name="cart" interface="vsmile_cart">
+			<feature name="u4" value="U4" />
+			<dataarea name="rom" size="8388608">
+				<rom name="099005 - La Maison Des Animaux (BABY) (FR).bin" size="8388608" crc="4ab4d311" sha1="584a5b359010636286de626a51c71c0c5bdcb864" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="poohhawa" supported="no">
+		<description>Pooh's Hundred Acre Wood Adventure (USA)</description>
+		<year>2007</year>
+		<publisher>VTech</publisher>
+		<info name="serial" value="80-099020(US)" />
+		<part name="cart" interface="vsmile_cart">
+			<dataarea name="rom" size="8388608">
+				<rom name="099020.bin" size="8388608" crc="a3ac4cd4" sha1="3562c632e0a1e70cb9e382ebb823449757afed67" status="baddump" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="poohhawasw" cloneof="poohhawa" supported="no">
+		<description>Nalle Puhs Äventyr i Sjumilaskogen (Sweden)</description>
+		<year>2007?</year>
+		<publisher>VTech</publisher>
+		<info name="serial" value="80-099034(SE)" />
+		<part name="cart" interface="vsmile_cart">
+			<feature name="pcb" value="707154" />
+			<feature name="pcb_model" value="707154-4" />
+			<feature name="u4" value="U4" /> <!-- EPOXY BLOB ROM -->
+			<dataarea name="rom" size="8388608">
+				<rom name="99034.u4" size="8388608" crc="5dbe1c20" sha1="51f56cedbe99fc7438429a4c02c08f65d2313790" />
+			</dataarea>
+		</part>
+	</software>
+
+</softwarelist>
