@@ -16,13 +16,13 @@ For Higan or nSide extract "[SGB SFC for Higan or nSide.zip](https://github.com/
 
 ### SNK - Neo Geo CD (NeoCD) - *All optional*
 
-- neocd/**neocd_f.rom** (Front Loader BIOS)" (sha1): a5f4a7a627b3083c979f6ebe1fabc5d2df6d083b
+- neocd/**neocd_f.rom** (Front Loader BIOS)" (sha1): a5f4a7a627b3083c979f6ebe1fabc5d2df6d083b ([?](http://smkdan.eludevisibility.org/neo//))
 
-- neocd/**neocd_sf.rom** (Front Loader BIOS (SMKDAN)) (sha1): c99c44a43bded1bff4570b30b74975601bd3f94e
+- neocd/**neocd_sf.rom** (Front Loader BIOS (SMKDAN)) (sha1): c99c44a43bded1bff4570b30b74975601bd3f94e ([?](http://smkdan.eludevisibility.org/ngcd2//))
 
-- neocd/**neocd_st.rom** (Top Loader BIOS (SMKDAN)) (sha1): d463b3a322b9674f9e227a21e43898019ce0e642
+- neocd/**neocd_st.rom** (Top Loader BIOS (SMKDAN)) (sha1): d463b3a322b9674f9e227a21e43898019ce0e642 ([?](http://smkdan.eludevisibility.org/ngcd/))
 
-- neocd/**neocd_sz.rom** (CDZ BIOS (SMKDAN)) (sha1): 41ca1c031b844a46387be783ac862c76e65afbb3
+- neocd/**neocd_sz.rom** (CDZ BIOS (SMKDAN)) (sha1): 41ca1c031b844a46387be783ac862c76e65afbb3 ([?](http://smkdan.eludevisibility.org/ngcd/))
 
 ### Palm OS (Mu) - *All optional*
 
