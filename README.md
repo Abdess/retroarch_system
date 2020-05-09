@@ -2,11 +2,6 @@
 
 BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-database/blob/master/dat/System.dat)
 
-## To fix
-
-- Wolfenstein 3D : ecwolf.pk3 -
-  > md5 Mismatch
-
 ## What's inside
 
 ### System, firmware, or BIOS files used by libretro
@@ -1400,14 +1395,14 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > md5 a93fc411c1ce7d001a2a812643c70085
 > sha1 02dcd1d5928c13f0305f3af356f935fee11debde
 
-#### Wolfenstein 3D ⚠️
+#### Wolfenstein 3D 🆗
 
-⚠️**ecwolf.pk3** - ***checksum mismatch*** - ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Wolfenstein%203D/ecwolf.pk3?raw=true))
+✔️**ecwolf.pk3** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Wolfenstein%203D/ecwolf.pk3?raw=true))
 
-> ❌size 178755
-> ❌crc 26dc3fba
-> ❌md5 c011b428819eea4a80b455c245a5a04d
-> ❌sha1 9259b87edfe9b9f6d0749788a75a6ccf158f50aa
+> size 178755
+> crc 26dc3fba
+> md5 c011b428819eea4a80b455c245a5a04d
+> sha1 9259b87edfe9b9f6d0749788a75a6ccf158f50aa
 
 #### ScummVM 🆗
 
