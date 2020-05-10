@@ -1344,7 +1344,7 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 
 #### Sony - PlayStation 🆗
 
-🔥**PSXONPSP660.BIN** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/PSXONPSP660.BIN?raw=true)) ([infos](https://github.com/gingerbeardman/PSX))
+🔥**PSXONPSP660.BIN** ([download](https://github.com/Abdess/retroarch_system/blob/Other/Sony%20-%20PlayStation/PSXONPSP660.BIN?raw=true)) ([infos](https://github.com/gingerbeardman/PSX))
 
   **Note: This BIOS improves emulation, rename it by the name of the BIOS used by your emulator. For example: scph5500.bin.**
 
