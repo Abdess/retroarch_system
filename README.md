@@ -73,7 +73,7 @@
 
 #### [SCPH-39001.bin](https://github.com/Abdess/retroarch_system/blob/Other/Sony%20-%20PlayStation%202/SCPH-39001.bin?raw=true)
 
-> size a19e0bf5
+> size 4194304
 > crc b832da9a
 > md5 d5ce2c7d119f563ce04bc04dbc3a323e
 > sha1 f9a5d629a036b99128f7cb530c6e3ca016e9c8b7
