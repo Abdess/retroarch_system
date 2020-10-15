@@ -38,7 +38,7 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > md5 f47264dd47fe30f73ab3c010015c155b
 > sha1 34bf189111295f74d7b7dfc1f304d98b8d36325a
 
-✔️**panafz10-patched.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/3DO%20Company,%20The%20-%203DO/panafz10-patched.bin?raw=true))
+✔️**panafz10-norsa.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/3DO%20Company,%20The%20-%203DO/panafz10-norsa.bin?raw=true))
 
 > size 1048576
 > crc 230e6feb
@@ -52,7 +52,7 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > md5 51f2f43ae2f3508a14d9f56597e2d3ce
 > sha1 3c912300775d1ad730dc35757e279c274c0acaad
 
-✔️**panafz10e-anvil-patched.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/3DO%20Company,%20The%20-%203DO/panafz10e-anvil-patched.bin?raw=true))
+✔️**panafz10e-anvil-norsa.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/3DO%20Company,%20The%20-%203DO/panafz10e-anvil-norsa.bin?raw=true))
 
 > size 1048576
 > crc 9a186221
@@ -72,6 +72,27 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > crc ff7393de
 > md5 428577250f43edc902ea239c50d2240d
 > sha1 2e857b957803d0331fd229328df01f3ffab69eee
+
+✔️**panafz1j-kanji.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/3DO%20Company,%20The%20-%203DO/panafz1j-kanji.bin?raw=true))
+
+> size 1048576
+> crc 45f478b1
+> md5 c23fb5d5e6bb1c240d02cf968972be37
+> sha1 884515605ee243577ab20767ef8c1a7368e4e407
+
+✔️**panafz1j-norsa.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/3DO%20Company,%20The%20-%203DO/panafz1j-norsa.bin?raw=true))
+
+> size 1048576
+> crc 82ce67c6
+> md5 f6c71de7470d16abe4f71b1444883dc8
+> sha1 a417587ae3b0b8ef00c830920c21af8bee88e419
+
+✔️**panafz1j.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/3DO%20Company,%20The%20-%203DO/panafz1j.bin?raw=true))
+
+> size 1048576
+> crc d9493adc
+> md5 a496cfdded3da562759be3561317b605
+> sha1 ec7ec62d60ec0459a14ed56ebc66761ef3c80efc
 
 ✔️**sanyotry.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/3DO%20Company,%20The%20-%203DO/sanyotry.bin?raw=true))
 
@@ -253,6 +274,20 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 
 #### Microsoft - MSX 🆗
 
+✔️**CARTS.SHA** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Microsoft%20-%20MSX/CARTS.SHA?raw=true))
+
+> size 33152
+> crc d42f4444
+> md5 74b0f217fa0e2b8bb5a2f8e2ecc69da3
+> sha1 bf5fb954db868e523febccc68549ed9187961076
+
+✔️**CYRILLIC.FNT** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Microsoft%20-%20MSX/CYRILLIC.FNT?raw=true))
+
+> size 2048
+> crc 73af9bc3
+> md5 85b38e4128bbc300e675f55b278683a8
+> sha1 000ac11b702a4c42e40f135df12fa5f2f13e20a1
+
 ✔️**DISK.ROM** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Microsoft%20-%20MSX/DISK.ROM?raw=true))
 
 > size 16384
@@ -266,6 +301,20 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > crc 0e84505d
 > md5 6f69cc8b5ed761b03afd78000dfb0e19
 > sha1 9d789166e3caf28e4742fe933d962e99618c633d
+
+✔️**FMPAC16.ROM** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Microsoft%20-%20MSX/FMPAC16.ROM?raw=true))
+
+> size 16384
+> crc 5d6c4d27
+> md5 af8537262df8df267072f359399a7635
+> sha1 2dc4517ebd5a061f9b5aa6b449cc4d4a2073540c
+
+✔️**ITALIC.FNT** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Microsoft%20-%20MSX/ITALIC.FNT?raw=true))
+
+> size 2048
+> crc c90ec498
+> md5 c83e50e9f33b8dd893c414691822740d
+> sha1 401dd6692dc80628e5f68b7c79be0b0ebbc4d3ee
 
 ✔️**KANJI.ROM** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Microsoft%20-%20MSX/KANJI.ROM?raw=true))
 
@@ -322,6 +371,13 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > crc 1bda68a3
 > md5 403cdea1cbd2bb24fae506941f8f655e
 > sha1 7fd2a28c4fdaeb140f3c8c8fb90271b1472c97b9
+
+✔️**RS232.ROM** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Microsoft%20-%20MSX/RS232.ROM?raw=true))
+
+> size 16640
+> crc ab6874f8
+> md5 279efd1eae0d358eecd4edc7d9adedf3
+> sha1 7aec0134ad6a5177f4056fcb6047083e8e00529b
 
 #### NEC - PC Engine - TurboGrafx 16 - SuperGrafx 🆗
 
@@ -1342,6 +1398,85 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > md5 0da70a5d2a0e733398e005b96b7e4ba6
 > sha1 21695e3f2a8f796386ce66eea8a246b0ac44810c
 
+#### SNK - NeoGeo CD 🆗
+
+✔️**000-lo.lo** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/SNK%20-%20NeoGeo%20CD/000-lo.lo?raw=true))
+
+> size 131072
+> crc 5a86cff2
+> md5 fc7599f3f871578fe9a0453662d1c966
+> sha1 5992277debadeb64d1c1c64b0a92d9293eaf7e4a
+
+✔️**front-sp1.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/SNK%20-%20NeoGeo%20CD/front-sp1.bin?raw=true))
+
+> size 524288
+> crc cac62307
+> md5 5c2366f25ff92d71788468ca492ebeca
+> sha1 53bc1f283cdf00fa2efbb79f2e36d4c8038d743a
+
+✔️**neocd.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/SNK%20-%20NeoGeo%20CD/neocd.bin?raw=true))
+
+> size 524288
+> crc df9de490
+> md5 f39572af7584cb5b3f70ae8cc848aba2
+> sha1 7bb26d1e5d1e930515219cb18bcde5b7b23e2eda
+
+✔️**neocd_f.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/SNK%20-%20NeoGeo%20CD/neocd_f.rom?raw=true))
+
+> size 524288
+> crc 6fd2a520
+> md5 8834880c33164ccbe6476b559f3e37de
+> sha1 a5f4a7a627b3083c979f6ebe1fabc5d2df6d083b
+
+✔️**neocd_sf.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/SNK%20-%20NeoGeo%20CD/neocd_sf.rom?raw=true))
+
+> size 524288
+> crc 1101f313
+> md5 043d76d5f0ef836500700c34faef774d
+> sha1 4a94719ee5d0e3f2b981498f70efc1b8f1cef325
+
+✔️**neocd_st.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/SNK%20-%20NeoGeo%20CD/neocd_st.rom?raw=true))
+
+> size 524288
+> crc 01c299cc
+> md5 f6325a33c6d63ea4b9162a3fa8c32727
+> sha1 19729b51bdab60c42aafef6e20ea9234c7eb8410
+
+✔️**neocd_sz.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/SNK%20-%20NeoGeo%20CD/neocd_sz.rom?raw=true))
+
+> size 524288
+> crc 42f6b6c4
+> md5 971ee8a36fb72da57aed01758f0a37f5
+> sha1 6a947457031dd3a702a296862446d7485aa89dbb
+
+✔️**neocd_t.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/SNK%20-%20NeoGeo%20CD/neocd_t.rom?raw=true))
+
+> size 524288
+> crc 56c9ecba
+> md5 de3cf45d227ad44645b22aa83b49f450
+> sha1 cc92b54a18a8bff6e595aabe8e5c360ba9e62eb5
+
+✔️**neocd_z.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/SNK%20-%20NeoGeo%20CD/neocd_z.rom?raw=true))
+
+> size 524288
+> crc 33697892
+> md5 11526d58d4c524daef7d5d677dc6b004
+> sha1 b0f1c4fa8d4492a04431805f6537138b842b549f
+
+✔️**top-sp1.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/SNK%20-%20NeoGeo%20CD/top-sp1.bin?raw=true))
+
+> size 524288
+> crc c36a47c0
+> md5 122aee210324c72e8a11116e6ef9c0d0
+> sha1 235f4d1d74364415910f73c10ae5482d90b4274f
+
+✔️**uni-bioscd.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/SNK%20-%20NeoGeo%20CD/uni-bioscd.rom?raw=true))
+
+> size 524288
+> crc ff3abc59
+> md5 08ca8b2dba6662e8024f9e789711c6fc
+> sha1 5142f205912869b673a71480c5828b1eaed782a8
+
 #### Sony - PlayStation 🆗
 
 🔥**PSXONPSP660.BIN** ([download](https://github.com/Abdess/retroarch_system/blob/Other/Sony%20-%20PlayStation/PSXONPSP660.BIN?raw=true)) ([infos](https://github.com/gingerbeardman/PSX))
@@ -1353,12 +1488,12 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > md5 c53ca5908936d412331790f4426c6c33
 > sha1 96880d1ca92a016ff054be5159bb06fe03cb4e14
 
-✔️**scph101.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph101.bin?raw=true))
+✔️**scph1000.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph1000.bin?raw=true))
 
 > size 524288
-> crc 171bdcec
-> md5 6e3735ff4c7dc899ee98981385f6f3d0
-> sha1 dcffe16bd90a723499ad46c641424981338d8378
+> crc 3b601fc8
+> md5 239665b1a3dade1b5a52c06338011044
+> sha1 343883a7b555646da8cee54aadd2795b6e7dd070
 
 ✔️**scph1001.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph1001.bin?raw=true))
 
@@ -1366,6 +1501,74 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > crc 37157331
 > md5 924e392ed05558ffdb115408c263dccf
 > sha1 10155d8d6e6e832d6ea66db9bc098321fb5e8ebf
+
+✔️**scph1002.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph1002.bin?raw=true))
+
+> size 524288
+> crc 9bb87c4b
+> md5 54847e693405ffeb0359c6287434cbef
+> sha1 20b98f3d80f11cbf5a7bfd0779b0e63760ecc62c
+
+✔️**scph100.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph100.bin?raw=true))
+
+> size 524288
+> crc f2af798b
+> md5 8abc1b549a4a80954addc48ef02c4521
+> sha1 339a48f4fcf63e10b5b867b8c93cfd40945faf6c
+
+✔️**scph101.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph101.bin?raw=true))
+
+> size 524288
+> crc 171bdcec
+> md5 6e3735ff4c7dc899ee98981385f6f3d0
+> sha1 dcffe16bd90a723499ad46c641424981338d8378
+
+✔️**scph102A.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph102A.bin?raw=true))
+
+> size 524288
+> crc 0bad7ea9
+> md5 b10f5e0e3d9eb60e5159690680b1e774
+> sha1 beb0ac693c0dc26daf5665b3314db81480fa5c7c
+
+✔️**scph102B.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph102B.bin?raw=true))
+
+> size 524288
+> crc 76b880e5
+> md5 de93caec13d1a141a40a79f5c86168d6
+> sha1 dbc7339e5d85827c095764fc077b41f78fd2ecae
+
+
+✔️**scph102C.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph102C.bin?raw=true))
+
+> size 524288
+> crc 76b880e5
+> md5 de93caec13d1a141a40a79f5c86168d6
+> sha1 dbc7339e5d85827c095764fc077b41f78fd2ecae
+
+
+✔️**scph3000.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph3000.bin?raw=true))
+
+> size 524288
+> crc 3539def6
+> md5 849515939161e62f6b866f6853006780
+> sha1 b06f4a861f74270be819aa2a07db8d0563a7cc4e
+
+
+✔️**scph3500.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph3500.bin?raw=true))
+
+> size 524288
+> crc bc190209
+> md5 cba733ceeff5aef5c32254f1d617fa62
+> sha1 e38466a4ba8005fba7e9e3c7b9efeba7205bee3f
+
+
+✔️**scph5000.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph5000.bin?raw=true))
+
+> size 524288
+> crc 8c93a399
+> md5 eb201d2d98251a598af467d4347bb62f
+> sha1 e340db2696274dda5fdc25e434a914db71e8b02b
+
 
 ✔️**scph5500.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph5500.bin?raw=true))
 
@@ -1388,12 +1591,47 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > md5 32736f17079d0b2b7024407c39bd3050
 > sha1 f6bc2d1f5eb6593de7d089c425ac681d6fffd3f0
 
+✔️**scph5552.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStationscph5552.bin?raw=true))
+
+> size 524288
+> crc d786f0b9
+> md5 32736f17079d0b2b7024407c39bd3050
+> sha1 f6bc2d1f5eb6593de7d089c425ac681d6fffd3f0
+
 ✔️**scph7001.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph7001.bin?raw=true))
 
 > size 524288
 > crc 502224b6
 > md5 1e68c231d0896b7eadcad1d7d8e76129
 > sha1 14df4f6c1e367ce097c11deae21566b4fe5647a9
+
+✔️**scph7002.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph7002.bin?raw=true))
+
+> size 524288
+> crc 318178bf
+> md5 b9d9a0286c33dc6b7237bb13cd46fdee
+> sha1 8d5de56a79954f29e9006929ba3fed9b6a418c1d
+
+✔️**scph7003.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph7003.bin?raw=true))
+
+> size 524288
+> crc 8d8cb7e4
+> md5 490f666e1afb15b7362b406ed1cea246
+> sha1 0555c6fae8906f3f09baf5988f00e55f88e9f30b
+
+✔️**scph7502.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph7502.bin?raw=true))
+
+> size 524288
+> crc 318178bf
+> md5 b9d9a0286c33dc6b7237bb13cd46fdee
+> sha1 8d5de56a79954f29e9006929ba3fed9b6a418c1d
+
+✔️**scph9002(7502).bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation/scph9002(7502).bin?raw=true))
+
+> size 524288
+> crc 318178bf
+> md5 b9d9a0286c33dc6b7237bb13cd46fdee
+> sha1 8d5de56a79954f29e9006929ba3fed9b6a418c1d
 
 #### Sony - PlayStation Portable 🆗
 
