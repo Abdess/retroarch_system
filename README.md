@@ -6,7 +6,7 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 
 ### System, firmware, or BIOS files used by libretro
 
-#### Version 2020-02-29
+#### Version 2020-10-13
 
 #### 3DO Company, The - 3DO 🆗
 
@@ -648,7 +648,44 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > md5 fed4d8242cfbed61343d53d48432aced
 > sha1 604556b2e62860af18db5a77f2956ebc75450020
 
+✔️**BS-X (En).bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Nintendo%20-%20Satellaview/BS-X%20(En).bin?raw=true))
+
+> size 1048576
+> crc 347e1c4e
+> md5 33b62505da6ca4525e3839db4e1a7bca
+> sha1 f3cdff70de5d0f5c52ca3a8f46588b863d48b8ec
+
+✔️**BS-X (En) (DRM-Free).bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Nintendo%20-%20Satellaview/BS-X%20(En)%20(DRM-Free).bin?raw=true))
+
+> size 1048576
+> crc 8c573c7e
+> md5 4ed9648505ab33a4daec93707b16caba
+> sha1 7996bd1c01b99800e0d5d34beff93db283784864
+
+#### Nintendo - SuFami Turbo 🆗
+
+✔️**STBIOS.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Nintendo%20-%20SuFami%20Turbo/STBIOS.bin?raw=true))
+
+> size 262144
+> crc 9b4ca911
+> md5 d3a44ba7d42a74d3ac58cb9c14c6a5ca
+> sha1 ef86ea192eed03d5c413fdbbfd46043be1d7a127
+
 #### Nintendo - Super Game Boy 🆗
+
+✔️**SGB1.sfc** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Nintendo%20-%20Super%20Game%20Boy/SGB1.sfc?raw=true))
+
+> size 262144
+> crc 8a4a174f
+> md5 b15ddb15721c657d82c5bab6db982ee9
+> sha1 973e10840db683cf3faf61bd443090786b3a9f04
+
+✔️**SGB2.sfc** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Nintendo%20-%20Super%20Game%20Boy/SGB2.sfc?raw=true))
+
+> size 524288
+> crc cb176e45
+> md5 8ecd73eb4edf7ed7e81aef1be80031d5
+> sha1 e5b2922ca137051059e4269b236d07a22c07bc84
 
 ✔️**sgb1.boot.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Nintendo%20-%20Super%20Game%20Boy/sgb1.boot.rom?raw=true))
 
