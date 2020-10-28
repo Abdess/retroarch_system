@@ -1197,6 +1197,13 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > md5 4c42a2f075212361c3117015b107ff68
 > sha1 5ea7c2b824672e914525d1d5c419d71b84a426a2
 
+✔️**disciple.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sinclair%20-%20ZX%20Spectrum/disciple.rom?raw=true))
+
+> size 8192
+> crc 82047489
+> md5 78e61a2a02121873c1756b21fd1398b1
+> sha1 9a75ed4b293f968985be4c9aa893cd88276d1ced
+
 ✔️**disk_plus3.szx** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sinclair%20-%20ZX%20Spectrum/disk_plus3.szx?raw=true))
 
 > size 1568
@@ -1242,23 +1249,23 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 ✔️**plus3-0.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sinclair%20-%20ZX%20Spectrum/plus2-1.rom?raw=true))
 
 > size 16384
-> crc 17373da2
-> md5 9833b8b73384dd5fa3678377ff00a2bb
-> sha1 e319ed08b4d53a5e421a75ea00ea02039ba6555b
+> crc 7f4a5482
+> md5 bc123f625e245c225f92ef05933ed134
+> sha1 649fbd233490bf58b35350b0123d36caaaa011eb
 
 ✔️**plus3-1.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sinclair%20-%20ZX%20Spectrum/plus3-1.rom?raw=true))
 
 > size 16384
-> crc f1d1d99e
-> md5 0f711ceb5ab801b4701989982e0f334c
-> sha1 c9969fc36095a59787554026a9adc3b87678c794
+> crc 5aeb4675
+> md5 617364264c587d20c9fc4746c29679f2
+> sha1 f12198108cbb14de4f03c6695bc16d08c85ee214
 
 ✔️**plus3-2.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sinclair%20-%20ZX%20Spectrum/plus3-2.rom?raw=true))
 
 > size 16384
-> crc 3dbf351d
-> md5 3b6dd659d5e4ec97f0e2f7878152c987
-> sha1 22e50c6ba4157a3f6a821bd9937cd26e292775c6
+> crc 504755cb
+> md5 c363e95dcd0a90e6e7f847e6e47e0179
+> sha1 773633dce5ba323a9e00d9d0f9e4d8c295df7c87
 
 ✔️**plus3-3.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sinclair%20-%20ZX%20Spectrum/plus3-3.rom?raw=true))
 
@@ -1305,16 +1312,23 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 ✔️**se-0.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sinclair%20-%20ZX%20Spectrum/se-0.rom?raw=true))
 
 > size 16384
-> crc 14b2bb1c
-> md5 eb7b7e33e9b4ece71b1b82dbb273f092
-> sha1 0f07083e1b3985547da50690d776a2c2603739fc
+> crc 8f1047d2
+> md5 fb3f86eb1e5a695d9c50c124e7cfb875
+> sha1 8608328d7dd66602a4846f046b24fed500f7d828
 
 ✔️**se-1.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sinclair%20-%20ZX%20Spectrum/se-1.rom?raw=true))
 
 > size 16384
-> crc ddee531f
-> md5 4c42a2f075212361c3117015b107ff68
-> sha1 5ea7c2b824672e914525d1d5c419d71b84a426a2
+> crc 16ed3a9b
+> md5 88de4a3129086f34bb9ca559acc51e6c
+> sha1 3be5de57dd3bd0a9d15c57cabe9179afe2906a52
+
+✔️**speccyboot-1.4.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sinclair%20-%20ZX%20Spectrum/speccyboot-1.4.rom?raw=true))
+
+> size 8192
+> crc 37c591b2
+> md5 c54aa8f374b0971f51546c29d5d1eba1
+> sha1 16af6f052b38a027dd49ba6e96e3a59d16b62672
 
 ✔️**tape_128.szx** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sinclair%20-%20ZX%20Spectrum/tape_128.szx?raw=true))
 
