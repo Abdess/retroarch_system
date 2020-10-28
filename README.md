@@ -215,6 +215,29 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > md5 646773759326fbac3b2311fd8c8793ee
 > sha1 e21545723fe8374e91342617604f1b3d703094f1
 
+#### Fairchild Channel F 🆗
+
+✔️**sl31253.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Fairchild%20Channel%20F/sl31253.bin?raw=true))
+
+> size 1024
+> crc 04694ed9
+> md5 ac9804d4c0e9d07e33472e3726ed15c3
+> sha1 81193965a374d77b99b4743d317824b53c3e3c78
+
+✔️**sl31254.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Fairchild%20Channel%20F/sl31254.bin?raw=true))
+
+> size 1024
+> crc 9c047ba3
+> md5 da98f4bb3242ab80d76629021bb27585
+> sha1 8f70d1b74483ba3a37e86cf16c849d601a8c3d2c
+
+✔️**sl90025.bin** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Fairchild%20Channel%20F/sl90025.bin?raw=true))
+
+> size 1024
+> crc 015c1e38
+> md5 95d339631d867c8f1d15a5f2ec26069d
+> sha1 759e2ed31fbde4a2d8daf8b9f3e0dffebc90dae2
+
 #### Id Software - Doom 🆗
 
 ✔️**prboom.wad** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Id%20Software%20-%20Doom/prboom.wad?raw=true))
@@ -429,6 +452,85 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > crc 2b5b75fe
 > md5 0754f903b52e3b3342202bdafb13efa5
 > sha1 d02611d99921986147c753df14c7349b31d71950
+
+#### NEC - PC-98 🆗
+
+✔️**2608_bd.wav** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/NEC%20-%20PC-98/2608_bd.wav?raw=true))
+
+> size 19192
+> crc bb038714
+> md5 d94546e70f17fd899be8df3544ab6cbb
+> sha1 0a56c142ef40cec50f3ee56a6e42d0029c9e2818
+
+✔️**2608_hh.wav** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/NEC%20-%20PC-98/2608_hh.wav?raw=true))
+
+> size 36722
+> crc 9898b372
+> md5 08c54a0c1f774a5538a848a6665a34b4
+> sha1 12f676cef249b82480b6f19c454e234b435ca7b6
+
+✔️**2608_rim.wav** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/NEC%20-%20PC-98/2608_rim.wav?raw=true))
+
+> size 5288
+> crc 638864c1
+> md5 465ea0768b27da404aec45dfc501404b
+> sha1 c65592330c9dd84011151daed52f9aec926b7e56
+
+✔️**2608_sd.wav** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/NEC%20-%20PC-98/2608_sd.wav?raw=true))
+
+> size 15558
+> crc 542cc58c
+> md5 d71004351c8bbfdad53b18222c061d49
+> sha1 3c79663ef74c0b0439d13351326eb1c52a657008
+
+✔️**2608_tom.wav** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/NEC%20-%20PC-98/2608_tom.wav?raw=true))
+
+> size 23092
+> crc 93c57bba
+> md5 96a4ead13f364734f79b0c58af2f0e1f
+> sha1 9513fb4a3f41e75a972a273a5104cbd834c1e2c5
+
+✔️**2608_top.wav** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/NEC%20-%20PC-98/2608_top.wav?raw=true))
+
+> size 57016
+> crc ab73a296
+> md5 593cff6597ab9380d822b8f824fd2c28
+> sha1 aa4a8f766a86b830687d5083fd3b9db0652f46fc
+
+✔️**bios.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/NEC%20-%20PC-98/bios.rom?raw=true))
+
+> size 98304
+> crc 0a682b93
+> md5 cd237e16e7e77c06bb58540e9e9fca68
+> sha1 76a7360502fa0296ea93b4c537174610a834d367
+
+✔️**font.bmp** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/NEC%20-%20PC-98/font.bmp?raw=true))
+
+> size 524350
+> crc d271798b
+> md5 7da1e5b7c482d4108d22a5b09631d967
+> sha1 b4f14e58030ed40fff2dc312b58ea4440bdf8cc5
+
+✔️**font.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/NEC%20-%20PC-98/font.rom?raw=true))
+
+> size 288768
+> crc 456d9fc7
+> md5 38d32748ae49d1815b0614970849fd40
+> sha1 78ba9960f135372825ab7244b5e4e73a810002ff
+
+✔️**itf.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/NEC%20-%20PC-98/itf.rom?raw=true))
+
+> size 32768
+> crc c1815325
+> md5 72ea51443070f0e9212bfc9b793ee28e
+> sha1 a2fb11c000ed7c976520622cfb7940ed6ddc904e
+
+✔️**sound.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/NEC%20-%20PC-98/sound.rom?raw=true))
+
+> size 16384
+> crc fe9f57f2
+> md5 524473c1a5a03b17e21d86a0408ff827
+> sha1 d5dbc4fea3b8367024d363f5351baecd6adcd8ef
 
 #### NEC - PC-FX 🆗
 
@@ -1080,6 +1182,22 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > crc e4d61811
 > md5 ac4e4b6522e200c0d23d371a8cecbfd3
 > sha1 4154e11959f3d5639b11d7902b3a393a99fb5776
+
+#### Sharp - X1 🆗
+
+✔️**iplrom.x1** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sharp%20-%20X1/iplrom.x1?raw=true))
+
+> size 4096
+> crc e70011d3
+> md5 eeeea1cd29c6e0e8b094790ae969bfa7
+> sha1 d3395e9aeb5b8bbba7654dd471bcd8af228ee69a
+
+✔️**iplrom.x1t** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sharp%20-%20X1/iplrom.x1t?raw=true))
+
+> size 2048
+> crc e3995a57
+> md5 851e4a5936f17d13f8c39a980cf00d77
+> sha1 1c1a0d8c9f4c446ccd7470516b215ddca5052fb2
 
 #### Sharp - X68000 🆗
 
