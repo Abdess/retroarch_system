@@ -6,7 +6,7 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 
 ### System, firmware, or BIOS files used by libretro
 
-#### Version 2020-10-13
+#### Version 2020-11-02
 
 #### 3DO Company, The - 3DO 🆗
 
@@ -101,14 +101,119 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > md5 35fa1a1ebaaeea286dc5cd15487c13ea
 > sha1 b01c53da256dde43ffec4ad3fc3adfa8d635e943
 
-#### Arcade (various) 🆗
+#### Arcade 🆗
 
-✔️**neo-geo.rom** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade%20(various)/neo-geo.rom?raw=true))
+✔️**airlbios.zip** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade/airlbios.zip?raw=true))
 
-> size 131072
-> crc 9036d879
-> md5 2968f59f44bf328639aa79391aeeeab4
-> sha1 4f5ed7105b7128794654ce82b51723e16e389543
+> size 715730
+> crc f83ec60f
+> md5 7a11bfe0cc72886d032e386db68f890c
+> sha1 f2a730530f4989ca0e8860aa4e455b6a5fe69e1d
+
+✔️**awbios.zip** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade/awbios.zip?raw=true))
+
+> size 42296
+> crc 67a14ad5
+> md5 85254fbe320ca82a768ec2c26bb08def
+> sha1 7940c7bf29eee85a5b2fdec78750b19aa22895dc
+
+✔️**bubsys.zip** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade/bubsys.zip?raw=true))
+
+> size 7950
+> crc 8fc2fd2e
+> md5 f81298afd68a1a24a49a1a2d9f087964
+> sha1 1c0ffcd308b0c8c6dbb74ad8b811a0767200d366
+
+✔️**cchip.zip** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade/cchip.zip?raw=true))
+
+> size 2700
+> crc 23debecb
+> md5 df6f8a3d83c028a5cb9f2f2be60773f3
+> sha1 364f2302a145a0fd6de767d7f8484badde1d1a6e
+
+✔️**decocass.zip** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade/decocass.zip?raw=true))
+
+> size 16107
+> crc 5de524e5
+> md5 b7e1189b341bf6a8e270017c096d21b0
+> sha1 30b97b2670b79d0de41cba190324c504846c6fa1
+
+✔️**f355bios.zip** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade/f355bios.zip?raw=true))
+
+> size 1394278
+> crc 17516536
+> md5 547f3d12aed389058ca06148f1cca0ed
+> sha1 b6ff66dcb5547bd91760d239ddf428a655631c53
+
+✔️**f355dlx.zip** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade/f355dlx.zip?raw=true))
+
+> size 2328436
+> crc 23ac17be
+> md5 1028615bcac4c31634a3364ce5c04044
+> sha1 48d1712d1b1cdfeeeb43c6287c17b0b6309cfaab
+
+✔️**hod2bios.zip** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade/hod2bios.zip?raw=true))
+
+> size 1479106
+> crc 0ddc6daf
+> md5 f4011d3116500354edf7302a90402711
+> sha1 782c303cbdfab1027b04db74a63e27bdad5e0c53
+
+✔️**isgsm.zip** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade/isgsm.zip?raw=true))
+
+> size 10207
+> crc 26856bf9
+> md5 4a56d56e2219c5e2b006b66a4263c01c
+> sha1 f590ccf688b4c05fa1da5c5dd92c224545170c3b
+
+✔️**midssio.zip** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade/midssio.zip?raw=true))
+
+> size 163
+> crc 7620bd32
+> md5 5904b0de768d1d506e766aa7e18994c1
+> sha1 54275c9833e497f71f76ab239030cc386c863991
+
+✔️**naomi.zip** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade/naomi.zip?raw=true))
+
+> size 9321533
+> crc 6ee50181
+> md5 526eda1e2a7920c92c88178789d71d84
+> sha1 c96711c01c0158f161791d6fbe75d88329e8ac0a
+
+✔️**neogeo.zip** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade/neogeo.zip?raw=true))
+
+> size 1859335
+> crc 81315163
+> md5 00dad01abdbf8ea9e79ad2fe11bdb182
+> sha1 deb62b0074b8cae4f162c257662136733cfc76ad
+
+✔️**nmk004.zip** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade/nmk004.zip?raw=true))
+
+> size 3556
+> crc a6099353
+> md5 bfacf1a68792d5348f93cf724d2f1dda
+> sha1 489256f5e2001070d2ad94c90d255282c71ed274
+
+✔️**pgm.zip** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade/pgm.zip?raw=true))
+
+> size 2094636
+> crc bf3dd2ef
+> md5 87cc944eef4c671aa2629a8ba48a08e0
+> sha1 c0c001ec80fa860857000f4cfc9844a28498a355
+
+✔️**skns.zip** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade/skns.zip?raw=true))
+
+> size 924762
+> crc 5692af22
+> md5 3f956c4e7008804cb47cbde49bd5b908
+> sha1 4257bd14b541fafbd555cb98ba079a3416a45934
+
+✔️**ym2608.zip** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Arcade/ym2608.zip?raw=true))
+
+> size 7609
+> crc 5b4c29c4
+> md5 79ae0d2bb1901b7e606b6dc339b79a97
+> sha1 06fc753d015b43ca1787f4cfd9331b1674202e64
 
 #### Atari - 400-800 🆗
 
