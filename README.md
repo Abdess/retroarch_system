@@ -2,7 +2,7 @@
 
 ## Based from [batocera-systems](https://github.com/batocera-linux/batocera.linux/commits/master/package/batocera/core/batocera-scripts/scripts/batocera-systems)
 
-The PS3 BIOS is too heavy to add to the repository. Nevertheless it is integrated in the release of Batocera.
+The PS3 BIOS is too heavy to be added to the repository. Nevertheless it is integrated in the latest release of Batocera BIOS Pack.
 
 It can be downloaded at this address:
 
