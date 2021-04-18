@@ -2,10 +2,12 @@
 
 ## Based from [batocera-systems](https://github.com/batocera-linux/batocera.linux/commits/master/package/batocera/core/batocera-scripts/scripts/batocera-systems)
 
-The PS3 BIOS is too heavy to add to the repository. It can be downloaded at this address:
+The PS3 BIOS is too heavy to add to the repository. Nevertheless it is integrated in the release of Batocera.
+
+It can be downloaded at this address:
 
 #### Sony - Playstation 3
 
-✔️**PS3UPDAT.PUP** ([download](https://archive.midnightchannel.net/SonyPS/Firmware/download/cf9cb4ba53a83ad557501417837c8de9/CEX_CRC[21fb1bbd]_FW[v4.86]_PS3UPDAT.PUP))
+✔️**PS3UPDAT.PUP** ([download](http://deu01.ps3.update.playstation.net/update/ps3/image/jp/2020_0331_cf9cb4ba53a83ad557501417837c8de9/PS3UPDAT.PUP/PS3UPDAT.PUP?dest=eu))
 
-> md5 cf9cb4ba53a83ad557501417837c8de9
+> md5 03373a581934f0d2b796156d2fb28b39
