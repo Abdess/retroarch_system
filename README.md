@@ -1909,12 +1909,12 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 
 #### Sony - PlayStation Portable 🆗
 
-✔️**ppge_atlas.zim** ⚠️***outdated file*** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation%20Portable/ppge_atlas.zim?raw=true))
+✔️**ppge_atlas.zim** ([download](https://github.com/Abdess/retroarch_system/blob/BIOSes/Sony%20-%20PlayStation%20Portable/ppge_atlas.zim?raw=true))
 
-> size 784968
-> crc 1e8709c1
-> md5 a93fc411c1ce7d001a2a812643c70085
-> sha1 02dcd1d5928c13f0305f3af356f935fee11debde
+> size 666530
+> crc 7b57fa78
+> md5 866855cc330b9b95cc69135fb7b41d38
+> sha1 30a33f3651f8e1b0967a5dfe6ff714baebcce41a
 
 #### Wolfenstein 3D 🆗
 
