@@ -1,0 +1,232 @@
+[   0.000000] Config <Info> core/settings.cpp:LogSettings:68: Citra Configuration:
+[   0.000008] Config <Info> core/settings.cpp:LogSetting:64: Core_UseCpuJit: true
+[   0.000009] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseGLES: false
+[   0.000009] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseHwRenderer: true
+[   0.000010] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseHwShader: true
+[   0.000010] Config <Info> core/settings.cpp:LogSetting:64: Renderer_ShadersAccurateGs: true
+[   0.000011] Config <Info> core/settings.cpp:LogSetting:64: Renderer_ShadersAccurateMul: false
+[   0.000011] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseShaderJit: true
+[   0.000012] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseResolutionFactor: 1
+[   0.000012] Config <Info> core/settings.cpp:LogSetting:64: Renderer_VsyncEnabled: false
+[   0.000013] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseFrameLimit: true
+[   0.000013] Config <Info> core/settings.cpp:LogSetting:64: Renderer_FrameLimit: 100
+[   0.000014] Config <Info> core/settings.cpp:LogSetting:64: Layout_Toggle3d: false
+[   0.000014] Config <Info> core/settings.cpp:LogSetting:64: Layout_Factor3d: 0
+[   0.000016] Config <Info> core/settings.cpp:LogSetting:64: Layout_LayoutOption: 0
+[   0.000017] Config <Info> core/settings.cpp:LogSetting:64: Layout_SwapScreen: false
+[   0.000017] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableDspLle: false
+[   0.000018] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableDspLleMultithread: false
+[   0.000019] Config <Info> core/settings.cpp:LogSetting:64: Audio_OutputEngine: auto
+[   0.000020] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableAudioStretching: true
+[   0.000020] Config <Info> core/settings.cpp:LogSetting:64: Audio_OutputDevice: auto
+[   0.000021] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightName: blank
+[   0.000021] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightConfig: 
+[   0.000022] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightFlip: 0
+[   0.000022] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerName: blank
+[   0.000023] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerConfig: 
+[   0.000023] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerFlip: 0
+[   0.000024] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftName: blank
+[   0.000024] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftConfig: 
+[   0.000025] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftFlip: 0
+[   0.000025] Config <Info> core/settings.cpp:LogSetting:64: DataStorage_UseVirtualSd: true
+[   0.000026] Config <Info> core/settings.cpp:LogSetting:64: System_IsNew3ds: false
+[   0.000026] Config <Info> core/settings.cpp:LogSetting:64: System_RegionValue: -1
+[   0.000027] Config <Info> core/settings.cpp:LogSetting:64: Debugging_UseGdbstub: false
+[   0.000027] Config <Info> core/settings.cpp:LogSetting:64: Debugging_GdbstubPort: 24689
+[   0.088701] Input <Info> input_common/udp/client.cpp:StartCommunication:199: Starting communication with UDP input server on 127.0.0.1:26760
+[   0.316105] Frontend <Info> citra_qt/main.cpp:GMainWindow:168: Citra Version: Canary 1224  | HEAD-a79420e
+[   1.943463] Frontend <Warning> citra_qt/main.cpp:CheckForUpdates:663: Unable to start check for updates
+[   4.601215] Service.PTM <Error> core/hle/service/ptm/ptm.cpp:ReadGameCoinData:181: Could not open the PTM SharedExtSaveData archive!
+[   8.527263] Config <Info> core/settings.cpp:LogSettings:68: Citra Configuration:
+[   8.527268] Config <Info> core/settings.cpp:LogSetting:64: Core_UseCpuJit: true
+[   8.527268] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseGLES: false
+[   8.527269] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseHwRenderer: true
+[   8.527269] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseHwShader: true
+[   8.527270] Config <Info> core/settings.cpp:LogSetting:64: Renderer_ShadersAccurateGs: true
+[   8.527270] Config <Info> core/settings.cpp:LogSetting:64: Renderer_ShadersAccurateMul: false
+[   8.527271] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseShaderJit: true
+[   8.527272] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseResolutionFactor: 1
+[   8.527272] Config <Info> core/settings.cpp:LogSetting:64: Renderer_VsyncEnabled: false
+[   8.527273] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseFrameLimit: true
+[   8.527274] Config <Info> core/settings.cpp:LogSetting:64: Renderer_FrameLimit: 100
+[   8.527274] Config <Info> core/settings.cpp:LogSetting:64: Layout_Toggle3d: false
+[   8.527275] Config <Info> core/settings.cpp:LogSetting:64: Layout_Factor3d: 0
+[   8.527275] Config <Info> core/settings.cpp:LogSetting:64: Layout_LayoutOption: 0
+[   8.527276] Config <Info> core/settings.cpp:LogSetting:64: Layout_SwapScreen: false
+[   8.527277] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableDspLle: false
+[   8.527277] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableDspLleMultithread: false
+[   8.527278] Config <Info> core/settings.cpp:LogSetting:64: Audio_OutputEngine: auto
+[   8.527279] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableAudioStretching: true
+[   8.527279] Config <Info> core/settings.cpp:LogSetting:64: Audio_OutputDevice: auto
+[   8.527280] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightName: blank
+[   8.527280] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightConfig: 
+[   8.527281] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightFlip: 0
+[   8.527281] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerName: blank
+[   8.527282] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerConfig: 
+[   8.527282] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerFlip: 0
+[   8.527283] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftName: blank
+[   8.527283] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftConfig: 
+[   8.527284] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftFlip: 0
+[   8.527285] Config <Info> core/settings.cpp:LogSetting:64: DataStorage_UseVirtualSd: true
+[   8.527285] Config <Info> core/settings.cpp:LogSetting:64: System_IsNew3ds: false
+[   8.527286] Config <Info> core/settings.cpp:LogSetting:64: System_RegionValue: -1
+[   8.527286] Config <Info> core/settings.cpp:LogSetting:64: Debugging_UseGdbstub: false
+[   8.527287] Config <Info> core/settings.cpp:LogSetting:64: Debugging_GdbstubPort: 24689
+[   8.529799] Frontend <Error> citra_qt/configuration/configure_camera.cpp:getCameraSelection:304: Unknown camera selection
+[   8.529802] Frontend <Error> citra_qt/configuration/configure_camera.cpp:getCameraSelection:304: Unknown camera selection
+[   8.529802] Frontend <Error> citra_qt/configuration/configure_camera.cpp:getCameraSelection:304: Unknown camera selection
+[   8.529878] Service.CAM <Error> citra_qt/configuration/configure_camera.cpp:updateImageSourceUI:142: Unknown image source -1
+[   8.530532] Service.PTM <Error> core/hle/service/ptm/ptm.cpp:ReadGameCoinData:181: Could not open the PTM SharedExtSaveData archive!
+[  11.024200] Config <Info> core/settings.cpp:LogSettings:68: Citra Configuration:
+[  11.024205] Config <Info> core/settings.cpp:LogSetting:64: Core_UseCpuJit: true
+[  11.024205] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseGLES: false
+[  11.024206] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseHwRenderer: true
+[  11.024207] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseHwShader: true
+[  11.024207] Config <Info> core/settings.cpp:LogSetting:64: Renderer_ShadersAccurateGs: true
+[  11.024208] Config <Info> core/settings.cpp:LogSetting:64: Renderer_ShadersAccurateMul: false
+[  11.024208] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseShaderJit: true
+[  11.024209] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseResolutionFactor: 1
+[  11.024210] Config <Info> core/settings.cpp:LogSetting:64: Renderer_VsyncEnabled: false
+[  11.024211] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseFrameLimit: true
+[  11.024211] Config <Info> core/settings.cpp:LogSetting:64: Renderer_FrameLimit: 100
+[  11.024212] Config <Info> core/settings.cpp:LogSetting:64: Layout_Toggle3d: false
+[  11.024212] Config <Info> core/settings.cpp:LogSetting:64: Layout_Factor3d: 0
+[  11.024213] Config <Info> core/settings.cpp:LogSetting:64: Layout_LayoutOption: 0
+[  11.024213] Config <Info> core/settings.cpp:LogSetting:64: Layout_SwapScreen: false
+[  11.024214] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableDspLle: false
+[  11.024215] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableDspLleMultithread: false
+[  11.024231] Config <Info> core/settings.cpp:LogSetting:64: Audio_OutputEngine: auto
+[  11.024231] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableAudioStretching: true
+[  11.024232] Config <Info> core/settings.cpp:LogSetting:64: Audio_OutputDevice: auto
+[  11.024232] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightName: blank
+[  11.024233] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightConfig: 
+[  11.024233] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightFlip: 0
+[  11.024234] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerName: blank
+[  11.024234] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerConfig: 
+[  11.024235] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerFlip: 0
+[  11.024235] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftName: blank
+[  11.024236] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftConfig: 
+[  11.024236] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftFlip: 0
+[  11.024237] Config <Info> core/settings.cpp:LogSetting:64: DataStorage_UseVirtualSd: true
+[  11.024237] Config <Info> core/settings.cpp:LogSetting:64: System_IsNew3ds: false
+[  11.024238] Config <Info> core/settings.cpp:LogSetting:64: System_RegionValue: -1
+[  11.024238] Config <Info> core/settings.cpp:LogSetting:64: Debugging_UseGdbstub: false
+[  11.024239] Config <Info> core/settings.cpp:LogSetting:64: Debugging_GdbstubPort: 24689
+[  11.024310] Frontend <Info> citra_qt/game_list.cpp:RefreshGameDirectory:655: Change detected in the games directory. Reloading game list.
+[  12.975966] Service.PTM <Error> core/hle/service/ptm/ptm.cpp:ReadGameCoinData:181: Could not open the PTM SharedExtSaveData archive!
+[ 153.369750] Config <Info> core/settings.cpp:LogSettings:68: Citra Configuration:
+[ 153.369755] Config <Info> core/settings.cpp:LogSetting:64: Core_UseCpuJit: true
+[ 153.369756] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseGLES: false
+[ 153.369757] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseHwRenderer: true
+[ 153.369758] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseHwShader: true
+[ 153.369759] Config <Info> core/settings.cpp:LogSetting:64: Renderer_ShadersAccurateGs: true
+[ 153.369759] Config <Info> core/settings.cpp:LogSetting:64: Renderer_ShadersAccurateMul: false
+[ 153.369760] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseShaderJit: true
+[ 153.369760] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseResolutionFactor: 1
+[ 153.369761] Config <Info> core/settings.cpp:LogSetting:64: Renderer_VsyncEnabled: false
+[ 153.369761] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseFrameLimit: true
+[ 153.369762] Config <Info> core/settings.cpp:LogSetting:64: Renderer_FrameLimit: 100
+[ 153.369762] Config <Info> core/settings.cpp:LogSetting:64: Layout_Toggle3d: false
+[ 153.369763] Config <Info> core/settings.cpp:LogSetting:64: Layout_Factor3d: 0
+[ 153.369763] Config <Info> core/settings.cpp:LogSetting:64: Layout_LayoutOption: 0
+[ 153.369764] Config <Info> core/settings.cpp:LogSetting:64: Layout_SwapScreen: false
+[ 153.369764] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableDspLle: false
+[ 153.369765] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableDspLleMultithread: false
+[ 153.369766] Config <Info> core/settings.cpp:LogSetting:64: Audio_OutputEngine: auto
+[ 153.369766] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableAudioStretching: true
+[ 153.369767] Config <Info> core/settings.cpp:LogSetting:64: Audio_OutputDevice: auto
+[ 153.369767] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightName: blank
+[ 153.369768] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightConfig: 
+[ 153.369769] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightFlip: 0
+[ 153.369769] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerName: blank
+[ 153.369770] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerConfig: 
+[ 153.369770] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerFlip: 0
+[ 153.369771] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftName: blank
+[ 153.369772] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftConfig: 
+[ 153.369772] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftFlip: 0
+[ 153.369773] Config <Info> core/settings.cpp:LogSetting:64: DataStorage_UseVirtualSd: true
+[ 153.369774] Config <Info> core/settings.cpp:LogSetting:64: System_IsNew3ds: false
+[ 153.369774] Config <Info> core/settings.cpp:LogSetting:64: System_RegionValue: -1
+[ 153.369775] Config <Info> core/settings.cpp:LogSetting:64: Debugging_UseGdbstub: false
+[ 153.369775] Config <Info> core/settings.cpp:LogSetting:64: Debugging_GdbstubPort: 24689
+[ 153.372641] Frontend <Error> citra_qt/configuration/configure_camera.cpp:getCameraSelection:304: Unknown camera selection
+[ 153.372644] Frontend <Error> citra_qt/configuration/configure_camera.cpp:getCameraSelection:304: Unknown camera selection
+[ 153.372645] Frontend <Error> citra_qt/configuration/configure_camera.cpp:getCameraSelection:304: Unknown camera selection
+[ 153.372754] Service.CAM <Error> citra_qt/configuration/configure_camera.cpp:updateImageSourceUI:142: Unknown image source -1
+[ 153.373707] Service.PTM <Error> core/hle/service/ptm/ptm.cpp:ReadGameCoinData:181: Could not open the PTM SharedExtSaveData archive!
+[ 155.322942] Config <Info> core/settings.cpp:LogSettings:68: Citra Configuration:
+[ 155.322948] Config <Info> core/settings.cpp:LogSetting:64: Core_UseCpuJit: true
+[ 155.322949] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseGLES: false
+[ 155.322950] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseHwRenderer: true
+[ 155.322951] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseHwShader: true
+[ 155.322952] Config <Info> core/settings.cpp:LogSetting:64: Renderer_ShadersAccurateGs: true
+[ 155.322953] Config <Info> core/settings.cpp:LogSetting:64: Renderer_ShadersAccurateMul: false
+[ 155.322953] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseShaderJit: true
+[ 155.322954] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseResolutionFactor: 1
+[ 155.322955] Config <Info> core/settings.cpp:LogSetting:64: Renderer_VsyncEnabled: false
+[ 155.322956] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseFrameLimit: true
+[ 155.322957] Config <Info> core/settings.cpp:LogSetting:64: Renderer_FrameLimit: 100
+[ 155.322957] Config <Info> core/settings.cpp:LogSetting:64: Layout_Toggle3d: false
+[ 155.322958] Config <Info> core/settings.cpp:LogSetting:64: Layout_Factor3d: 0
+[ 155.322958] Config <Info> core/settings.cpp:LogSetting:64: Layout_LayoutOption: 0
+[ 155.322959] Config <Info> core/settings.cpp:LogSetting:64: Layout_SwapScreen: false
+[ 155.322960] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableDspLle: false
+[ 155.322960] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableDspLleMultithread: false
+[ 155.322961] Config <Info> core/settings.cpp:LogSetting:64: Audio_OutputEngine: auto
+[ 155.322961] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableAudioStretching: true
+[ 155.322962] Config <Info> core/settings.cpp:LogSetting:64: Audio_OutputDevice: auto
+[ 155.322963] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightName: blank
+[ 155.322964] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightConfig: 
+[ 155.322964] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightFlip: 0
+[ 155.322965] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerName: blank
+[ 155.322966] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerConfig: 
+[ 155.322966] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerFlip: 0
+[ 155.322967] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftName: blank
+[ 155.322967] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftConfig: 
+[ 155.322968] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftFlip: 0
+[ 155.322969] Config <Info> core/settings.cpp:LogSetting:64: DataStorage_UseVirtualSd: true
+[ 155.322969] Config <Info> core/settings.cpp:LogSetting:64: System_IsNew3ds: false
+[ 155.322970] Config <Info> core/settings.cpp:LogSetting:64: System_RegionValue: -1
+[ 155.322971] Config <Info> core/settings.cpp:LogSetting:64: Debugging_UseGdbstub: false
+[ 155.322971] Config <Info> core/settings.cpp:LogSetting:64: Debugging_GdbstubPort: 24689
+[ 155.325575] Frontend <Error> citra_qt/configuration/configure_camera.cpp:getCameraSelection:304: Unknown camera selection
+[ 155.325578] Frontend <Error> citra_qt/configuration/configure_camera.cpp:getCameraSelection:304: Unknown camera selection
+[ 155.325579] Frontend <Error> citra_qt/configuration/configure_camera.cpp:getCameraSelection:304: Unknown camera selection
+[ 155.325655] Service.CAM <Error> citra_qt/configuration/configure_camera.cpp:updateImageSourceUI:142: Unknown image source -1
+[ 155.326301] Service.PTM <Error> core/hle/service/ptm/ptm.cpp:ReadGameCoinData:181: Could not open the PTM SharedExtSaveData archive!
+[ 196.317962] Config <Info> core/settings.cpp:LogSettings:68: Citra Configuration:
+[ 196.317966] Config <Info> core/settings.cpp:LogSetting:64: Core_UseCpuJit: true
+[ 196.317967] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseGLES: false
+[ 196.317968] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseHwRenderer: true
+[ 196.317969] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseHwShader: true
+[ 196.317969] Config <Info> core/settings.cpp:LogSetting:64: Renderer_ShadersAccurateGs: true
+[ 196.317970] Config <Info> core/settings.cpp:LogSetting:64: Renderer_ShadersAccurateMul: false
+[ 196.317970] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseShaderJit: true
+[ 196.317971] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseResolutionFactor: 1
+[ 196.317972] Config <Info> core/settings.cpp:LogSetting:64: Renderer_VsyncEnabled: false
+[ 196.317973] Config <Info> core/settings.cpp:LogSetting:64: Renderer_UseFrameLimit: true
+[ 196.317973] Config <Info> core/settings.cpp:LogSetting:64: Renderer_FrameLimit: 100
+[ 196.317974] Config <Info> core/settings.cpp:LogSetting:64: Layout_Toggle3d: false
+[ 196.317975] Config <Info> core/settings.cpp:LogSetting:64: Layout_Factor3d: 0
+[ 196.317975] Config <Info> core/settings.cpp:LogSetting:64: Layout_LayoutOption: 0
+[ 196.317976] Config <Info> core/settings.cpp:LogSetting:64: Layout_SwapScreen: false
+[ 196.317977] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableDspLle: false
+[ 196.317977] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableDspLleMultithread: false
+[ 196.317978] Config <Info> core/settings.cpp:LogSetting:64: Audio_OutputEngine: auto
+[ 196.317979] Config <Info> core/settings.cpp:LogSetting:64: Audio_EnableAudioStretching: true
+[ 196.317979] Config <Info> core/settings.cpp:LogSetting:64: Audio_OutputDevice: auto
+[ 196.317980] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightName: blank
+[ 196.317980] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightConfig: 
+[ 196.317981] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterRightFlip: 0
+[ 196.317982] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerName: blank
+[ 196.317983] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerConfig: 
+[ 196.317983] Config <Info> core/settings.cpp:LogSetting:64: Camera_InnerFlip: 0
+[ 196.317984] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftName: blank
+[ 196.317984] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftConfig: 
+[ 196.317985] Config <Info> core/settings.cpp:LogSetting:64: Camera_OuterLeftFlip: 0
+[ 196.317986] Config <Info> core/settings.cpp:LogSetting:64: DataStorage_UseVirtualSd: true
+[ 196.317987] Config <Info> core/settings.cpp:LogSetting:64: System_IsNew3ds: false
+[ 196.317987] Config <Info> core/settings.cpp:LogSetting:64: System_RegionValue: -1
+[ 196.317988] Config <Info> core/settings.cpp:LogSetting:64: Debugging_UseGdbstub: false
+[ 196.317988] Config <Info> core/settings.cpp:LogSetting:64: Debugging_GdbstubPort: 24689
+[ 196.318077] Frontend <Info> citra_qt/game_list.cpp:RefreshGameDirectory:655: Change detected in the games directory. Reloading game list.
