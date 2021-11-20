@@ -8,6 +8,6 @@ It can be downloaded at this address:
 
 #### Sony - Playstation 3
 
-✔️**PS3UPDAT.PUP** ([download](http://deu01.ps3.update.playstation.net/update/ps3/image/jp/2020_0331_cf9cb4ba53a83ad557501417837c8de9/PS3UPDAT.PUP/PS3UPDAT.PUP?dest=eu))
+✔️**PS3UPDAT.PUP** ([download](https://archive.midnightchannel.net/SonyPS/Firmware/download/a0b63a3e4ae92ed176d6b9a67ce447f0/CEX_CRC%5B9D98AF0B%5D_FW%5Bv4.88%5D_PS3UPDAT.PUP))
 
-> md5 03373a581934f0d2b796156d2fb28b39
+> md5 a0b63a3e4ae92ed176d6b9a67ce447f0
