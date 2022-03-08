@@ -290,7 +290,7 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 
 #### Coleco - ColecoVision 🆗
 
-✔️**coleco.rom** ([download](https://github.com/Abdess/retroarch_system/raw/libretro/Coleco%20-%20ColecoVision/coleco.rom))
+✔️**colecovision.rom** ([download](https://github.com/Abdess/retroarch_system/raw/libretro/Coleco%20-%20ColecoVision/colecovision.rom))
 
 > size 8192
 > crc 3aa93ef3
