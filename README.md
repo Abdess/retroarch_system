@@ -24,7 +24,10 @@ The dumps are European (EUR) for those who want the US version, it can be downlo
 
 DSi mode is optional
 
-You can get the SD card image (**dsi_sd_card.bin**) by yourself or from the melonDS site.
-http://kuribo64.net/get.php?id=mRJJ5GggXOPbKUMZ
+You can get the SD card image (**dsi_sd_card.bin**) :
+- in system/choose-your-dsi-sd-images-size.zip, choose the size you want and rename it **dsi_sd_card.bin**
+- by yourself 
+- from the melonDS site.
+- or here : http://kuribo64.net/get.php?id=mRJJ5GggXOPbKUMZ
 
 If you are dealing with DSiware, it is better to do it with melonDS alone instead of RetroArch.
