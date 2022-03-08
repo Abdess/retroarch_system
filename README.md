@@ -375,6 +375,15 @@ BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-data
 > md5 29a92d0867da2917275b7c6c805d256f
 > sha1 7d738042268e4ffd0aae8e85e05dd28bce761d1f
 
+#### MacII 🆗
+
+✔️**MacII.ROM** ([download](https://github.com/Abdess/retroarch_system/raw/libretro/MacII/MacII.ROM))
+
+> size 262144
+> crc 4df6d054
+> md5 66223be1497460f1e60885eeb35e03cc
+> sha1 db6b504744281369794e26ba71a6e385cf6227fa
+
 #### Magnavox - Odyssey2 🆗
 
 ✔️**o2rom.bin** ([download](https://github.com/Abdess/retroarch_system/raw/libretro/Magnavox%20-%20Odyssey2/o2rom.bin))
